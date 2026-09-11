@@ -1,0 +1,1001 @@
+interaction_id,date,agent,channel,country,contact_reason,resolution,aht_seconds,csat,satisfaction,week,csat_positive,dsat
+INT-0548,2026-07-01,Agent 010,Call,Spain,Refund Request,Resolved,877,4,Satisfied,27,1,0
+INT-0915,2026-07-01,Agent 014,Chat,Portugal,Late Delivery,Resolved,535,5,Satisfied,27,1,0
+INT-0064,2026-07-01,Agent 001,Email,Italy,Missing Items,Resolved,289,3,Neutral,27,0,0
+INT-0060,2026-07-01,Agent 001,Chat,Spain,Late Delivery,Resolved,450,4,Satisfied,27,1,0
+INT-0479,2026-07-01,Agent 004,Chat,Spain,Order Status,Resolved,409,5,Satisfied,27,1,0
+INT-0896,2026-07-01,Agent 011,Call,Spain,Order Status,Resolved,515,4,Satisfied,27,1,0
+INT-0946,2026-07-01,Agent 008,Call,Spain,Missing Items,Resolved,930,5,Satisfied,27,1,0
+INT-0638,2026-07-01,Agent 006,Chat,Spain,Order Cancellation,Not Resolved,553,3,Neutral,27,0,0
+INT-0041,2026-07-01,Agent 008,Chat,Spain,Refund Request,Resolved,863,3,Neutral,27,0,0
+INT-0442,2026-07-01,Agent 010,Chat,Spain,Account Issue,Resolved,400,4,Satisfied,27,1,0
+INT-0198,2026-07-01,Agent 017,Chat,Spain,Account Issue,Partially Resolved,467,4,Satisfied,27,1,0
+INT-0653,2026-07-01,Agent 008,Email,Spain,Refund Request,Resolved,407,3,Neutral,27,0,0
+INT-0549,2026-07-01,Agent 006,Chat,Spain,Missing Items,Resolved,398,4,Satisfied,27,1,0
+INT-0933,2026-07-01,Agent 020,Chat,Portugal,Delivery Instructions,Partially Resolved,618,2,Dissatisfied,27,0,1
+INT-0862,2026-07-02,Agent 004,Chat,Portugal,Refund Request,Resolved,758,4,Satisfied,27,1,0
+INT-0606,2026-07-02,Agent 016,Chat,Italy,Missing Items,Partially Resolved,585,3,Neutral,27,0,0
+INT-0644,2026-07-02,Agent 014,Call,Portugal,Refund Request,Resolved,446,2,Dissatisfied,27,0,1
+INT-0452,2026-07-02,Agent 002,Email,Spain,Wrong Order,Resolved,499,3,Neutral,27,0,0
+INT-0723,2026-07-02,Agent 012,Call,Spain,Payment Issue,Resolved,438,2,Dissatisfied,27,0,1
+INT-0284,2026-07-02,Agent 017,Chat,Spain,Order Status,Resolved,365,3,Neutral,27,0,0
+INT-0158,2026-07-02,Agent 009,Chat,Spain,Order Status,Resolved,216,5,Satisfied,27,1,0
+INT-0878,2026-07-02,Agent 015,Call,Spain,Order Cancellation,Resolved,626,5,Satisfied,27,1,0
+INT-0613,2026-07-02,Agent 018,Chat,Spain,Late Delivery,Not Resolved,672,2,Dissatisfied,27,0,1
+INT-0491,2026-07-02,Agent 001,Email,Portugal,Order Status,Not Resolved,283,2,Dissatisfied,27,0,1
+INT-0762,2026-07-02,Agent 007,Email,Spain,Account Issue,Partially Resolved,287,4,Satisfied,27,1,0
+INT-0408,2026-07-02,Agent 001,Email,Spain,Order Cancellation,Resolved,419,2,Dissatisfied,27,0,1
+INT-0322,2026-07-02,Agent 003,Email,Portugal,Missing Items,Resolved,583,3,Neutral,27,0,0
+INT-0932,2026-07-02,Agent 011,Chat,Spain,Order Cancellation,Partially Resolved,314,4,Satisfied,27,1,0
+INT-0466,2026-07-03,Agent 006,Chat,Spain,Order Cancellation,Resolved,531,4,Satisfied,27,1,0
+INT-0480,2026-07-03,Agent 006,Chat,Portugal,Wrong Order,Resolved,648,5,Satisfied,27,1,0
+INT-0867,2026-07-03,Agent 008,Chat,Spain,Late Delivery,Not Resolved,324,2,Dissatisfied,27,0,1
+INT-0719,2026-07-03,Agent 008,Chat,Spain,Refund Request,Resolved,502,5,Satisfied,27,1,0
+INT-0883,2026-07-03,Agent 003,Chat,Spain,Refund Request,Resolved,451,5,Satisfied,27,1,0
+INT-0448,2026-07-03,Agent 002,Chat,Spain,Delivery Instructions,Resolved,542,3,Neutral,27,0,0
+INT-0275,2026-07-03,Agent 003,Call,Spain,Delivery Instructions,Partially Resolved,518,4,Satisfied,27,1,0
+INT-0753,2026-07-03,Agent 020,Call,Spain,Delivery Instructions,Resolved,411,4,Satisfied,27,1,0
+INT-0981,2026-07-03,Agent 014,Call,Spain,Missing Items,Partially Resolved,480,3,Neutral,27,0,0
+INT-0258,2026-07-03,Agent 016,Chat,Spain,Order Status,Partially Resolved,277,3,Neutral,27,0,0
+INT-0252,2026-07-03,Agent 013,Chat,Italy,Order Status,Resolved,275,5,Satisfied,27,1,0
+INT-0239,2026-07-03,Agent 017,Chat,Portugal,Missing Items,Resolved,521,3,Neutral,27,0,0
+INT-0214,2026-07-03,Agent 015,Chat,Spain,Promotion Issue,Partially Resolved,501,3,Neutral,27,0,0
+INT-0058,2026-07-03,Agent 003,Email,Italy,Order Status,Resolved,309,5,Satisfied,27,1,0
+INT-0697,2026-07-03,Agent 008,Call,Italy,Order Status,Resolved,234,5,Satisfied,27,1,0
+INT-0706,2026-07-04,Agent 010,Chat,Spain,Order Status,Resolved,543,4,Satisfied,27,1,0
+INT-0918,2026-07-04,Agent 013,Call,Italy,Order Cancellation,Partially Resolved,840,3,Neutral,27,0,0
+INT-0704,2026-07-04,Agent 010,Chat,Spain,Refund Request,Resolved,806,4,Satisfied,27,1,0
+INT-0669,2026-07-04,Agent 004,Chat,Spain,Late Delivery,Not Resolved,608,2,Dissatisfied,27,0,1
+INT-0859,2026-07-04,Agent 017,Chat,Spain,Order Status,Resolved,364,5,Satisfied,27,1,0
+INT-0583,2026-07-04,Agent 015,Chat,Italy,Order Cancellation,Resolved,523,5,Satisfied,27,1,0
+INT-0880,2026-07-04,Agent 011,Call,Spain,Payment Issue,Resolved,609,5,Satisfied,27,1,0
+INT-0103,2026-07-04,Agent 005,Chat,Spain,Wrong Order,Resolved,249,3,Neutral,27,0,0
+INT-0816,2026-07-04,Agent 020,Chat,Spain,Missing Items,Not Resolved,430,3,Neutral,27,0,0
+INT-0787,2026-07-04,Agent 020,Call,Spain,Order Cancellation,Resolved,729,5,Satisfied,27,1,0
+INT-0449,2026-07-04,Agent 015,Chat,Spain,Account Issue,Not Resolved,290,2,Dissatisfied,27,0,1
+INT-0856,2026-07-04,Agent 010,Chat,Spain,Order Status,Resolved,440,5,Satisfied,27,1,0
+INT-0100,2026-07-04,Agent 012,Chat,Portugal,Refund Request,Resolved,749,5,Satisfied,27,1,0
+INT-0063,2026-07-04,Agent 004,Call,Spain,Missing Items,Resolved,472,3,Neutral,27,0,0
+INT-0598,2026-07-05,Agent 009,Chat,Spain,Order Status,Resolved,409,4,Satisfied,27,1,0
+INT-0635,2026-07-05,Agent 001,Chat,Spain,Promotion Issue,Resolved,500,4,Satisfied,27,1,0
+INT-0714,2026-07-05,Agent 001,Call,Spain,Payment Issue,Resolved,591,3,Neutral,27,0,0
+INT-0895,2026-07-05,Agent 007,Call,Spain,Order Status,Resolved,290,5,Satisfied,27,1,0
+INT-0881,2026-07-05,Agent 006,Chat,Spain,Order Cancellation,Resolved,415,4,Satisfied,27,1,0
+INT-0457,2026-07-05,Agent 007,Call,Spain,Order Status,Resolved,331,5,Satisfied,27,1,0
+INT-0385,2026-07-05,Agent 005,Chat,Spain,Account Issue,Resolved,357,5,Satisfied,27,1,0
+INT-0868,2026-07-05,Agent 016,Chat,Spain,Order Status,Not Resolved,370,3,Neutral,27,0,0
+INT-0075,2026-07-05,Agent 020,Call,Portugal,Order Status,Resolved,257,4,Satisfied,27,1,0
+INT-0184,2026-07-05,Agent 008,Call,Spain,Wrong Order,Resolved,535,5,Satisfied,27,1,0
+INT-0846,2026-07-05,Agent 004,Chat,Spain,Order Cancellation,Resolved,434,4,Satisfied,27,1,0
+INT-0682,2026-07-05,Agent 009,Chat,Spain,Refund Request,Partially Resolved,510,2,Dissatisfied,27,0,1
+INT-0237,2026-07-05,Agent 005,Chat,Spain,Late Delivery,Partially Resolved,524,1,Dissatisfied,27,0,1
+INT-0267,2026-07-05,Agent 012,Call,Spain,Account Issue,Resolved,477,5,Satisfied,27,1,0
+INT-0898,2026-07-05,Agent 005,Chat,Spain,Delivery Instructions,Resolved,300,4,Satisfied,27,1,0
+INT-0863,2026-07-05,Agent 004,Call,Spain,Order Cancellation,Resolved,332,3,Neutral,27,0,0
+INT-0732,2026-07-05,Agent 007,Chat,Italy,Order Status,Resolved,451,5,Satisfied,27,1,0
+INT-0047,2026-07-05,Agent 006,Call,Portugal,Late Delivery,Resolved,693,4,Satisfied,27,1,0
+INT-0589,2026-07-05,Agent 009,Chat,Spain,Wrong Order,Resolved,626,4,Satisfied,27,1,0
+INT-0542,2026-07-05,Agent 006,Chat,Spain,Order Cancellation,Resolved,555,4,Satisfied,27,1,0
+INT-0073,2026-07-05,Agent 006,Chat,Spain,Wrong Order,Partially Resolved,664,3,Neutral,27,0,0
+INT-0236,2026-07-06,Agent 004,Chat,Spain,Payment Issue,Resolved,327,3,Neutral,28,0,0
+INT-0649,2026-07-06,Agent 018,Chat,Spain,Missing Items,Resolved,439,4,Satisfied,28,1,0
+INT-0437,2026-07-06,Agent 013,Call,Spain,Missing Items,Resolved,557,2,Dissatisfied,28,0,1
+INT-0368,2026-07-06,Agent 009,Chat,Portugal,Order Status,Resolved,457,5,Satisfied,28,1,0
+INT-0389,2026-07-06,Agent 012,Chat,Spain,Refund Request,Resolved,582,5,Satisfied,28,1,0
+INT-0492,2026-07-06,Agent 016,Call,Spain,Wrong Order,Resolved,642,4,Satisfied,28,1,0
+INT-0526,2026-07-06,Agent 004,Chat,Spain,Account Issue,Resolved,498,4,Satisfied,28,1,0
+INT-0993,2026-07-06,Agent 019,Chat,Spain,Missing Items,Partially Resolved,672,1,Dissatisfied,28,0,1
+INT-0523,2026-07-06,Agent 004,Call,Spain,Order Status,Resolved,369,3,Neutral,28,0,0
+INT-0332,2026-07-06,Agent 014,Chat,Portugal,Order Cancellation,Resolved,612,4,Satisfied,28,1,0
+INT-0397,2026-07-06,Agent 012,Chat,Spain,Late Delivery,Not Resolved,353,3,Neutral,28,0,0
+INT-0778,2026-07-06,Agent 001,Chat,Spain,Refund Request,Not Resolved,773,2,Dissatisfied,28,0,1
+INT-0393,2026-07-06,Agent 014,Chat,Portugal,Order Status,Not Resolved,435,3,Neutral,28,0,0
+INT-0957,2026-07-06,Agent 011,Chat,Spain,Order Status,Resolved,412,3,Neutral,28,0,0
+INT-0742,2026-07-06,Agent 005,Chat,Portugal,Wrong Order,Resolved,550,3,Neutral,28,0,0
+INT-0745,2026-07-06,Agent 010,Chat,Spain,Delivery Instructions,Resolved,375,5,Satisfied,28,1,0
+INT-0243,2026-07-07,Agent 006,Email,Portugal,Wrong Order,Resolved,399,4,Satisfied,28,1,0
+INT-0210,2026-07-07,Agent 010,Chat,Spain,Wrong Order,Resolved,558,1,Dissatisfied,28,0,1
+INT-0648,2026-07-07,Agent 004,Email,Spain,Missing Items,Resolved,373,3,Neutral,28,0,0
+INT-0161,2026-07-07,Agent 002,Call,Portugal,Missing Items,Not Resolved,499,2,Dissatisfied,28,0,1
+INT-0860,2026-07-07,Agent 018,Chat,Spain,Order Status,Resolved,346,5,Satisfied,28,1,0
+INT-0165,2026-07-07,Agent 001,Chat,Spain,Order Status,Resolved,360,4,Satisfied,28,1,0
+INT-0176,2026-07-07,Agent 009,Call,Spain,Refund Request,Resolved,977,3,Neutral,28,0,0
+INT-0864,2026-07-07,Agent 005,Chat,Spain,Order Cancellation,Partially Resolved,301,1,Dissatisfied,28,0,1
+INT-0870,2026-07-07,Agent 006,Chat,Spain,Order Status,Resolved,341,2,Dissatisfied,28,0,1
+INT-0800,2026-07-07,Agent 015,Chat,Spain,Wrong Order,Resolved,414,4,Satisfied,28,1,0
+INT-0391,2026-07-07,Agent 002,Chat,Italy,Wrong Order,Partially Resolved,753,2,Dissatisfied,28,0,1
+INT-0345,2026-07-07,Agent 002,Call,Spain,Refund Request,Not Resolved,995,1,Dissatisfied,28,0,1
+INT-0336,2026-07-07,Agent 018,Chat,Spain,Promotion Issue,Resolved,542,5,Satisfied,28,1,0
+INT-0768,2026-07-07,Agent 016,Chat,Spain,Payment Issue,Partially Resolved,443,3,Neutral,28,0,0
+INT-0317,2026-07-07,Agent 007,Call,Spain,Refund Request,Resolved,802,4,Satisfied,28,1,0
+INT-0999,2026-07-07,Agent 020,Email,Italy,Account Issue,Resolved,390,4,Satisfied,28,1,0
+INT-0489,2026-07-07,Agent 018,Chat,Spain,Delivery Instructions,Resolved,330,3,Neutral,28,0,0
+INT-0937,2026-07-07,Agent 005,Chat,Spain,Refund Request,Resolved,759,5,Satisfied,28,1,0
+INT-0087,2026-07-07,Agent 020,Chat,Spain,Missing Items,Resolved,411,5,Satisfied,28,1,0
+INT-0238,2026-07-08,Agent 016,Chat,Italy,Late Delivery,Partially Resolved,396,3,Neutral,28,0,0
+INT-0759,2026-07-08,Agent 014,Chat,Spain,Order Cancellation,Partially Resolved,591,4,Satisfied,28,1,0
+INT-0659,2026-07-08,Agent 001,Call,Spain,Payment Issue,Resolved,726,3,Neutral,28,0,0
+INT-0470,2026-07-08,Agent 019,Chat,Italy,Order Status,Resolved,319,4,Satisfied,28,1,0
+INT-0414,2026-07-08,Agent 010,Call,Spain,Order Cancellation,Resolved,472,5,Satisfied,28,1,0
+INT-0576,2026-07-08,Agent 008,Call,Portugal,Wrong Order,Resolved,873,3,Neutral,28,0,0
+INT-0517,2026-07-08,Agent 017,Call,Spain,Refund Request,Resolved,667,4,Satisfied,28,1,0
+INT-0062,2026-07-08,Agent 003,Call,Spain,Late Delivery,Resolved,764,3,Neutral,28,0,0
+INT-0767,2026-07-08,Agent 012,Call,Portugal,Order Status,Resolved,221,4,Satisfied,28,1,0
+INT-0855,2026-07-08,Agent 017,Email,Portugal,Promotion Issue,Resolved,347,4,Satisfied,28,1,0
+INT-0412,2026-07-08,Agent 008,Email,Italy,Order Status,Resolved,379,5,Satisfied,28,1,0
+INT-0911,2026-07-08,Agent 007,Chat,Spain,Order Status,Partially Resolved,255,3,Neutral,28,0,0
+INT-0016,2026-07-08,Agent 010,Chat,Spain,Missing Items,Resolved,493,4,Satisfied,28,1,0
+INT-0112,2026-07-08,Agent 013,Chat,Spain,Promotion Issue,Resolved,346,5,Satisfied,28,1,0
+INT-0975,2026-07-08,Agent 008,Chat,Spain,Delivery Instructions,Resolved,345,3,Neutral,28,0,0
+INT-0737,2026-07-08,Agent 018,Call,Italy,Order Cancellation,Resolved,457,4,Satisfied,28,1,0
+INT-0339,2026-07-08,Agent 001,Call,Portugal,Missing Items,Resolved,365,4,Satisfied,28,1,0
+INT-0215,2026-07-08,Agent 015,Call,Italy,Refund Request,Resolved,731,4,Satisfied,28,1,0
+INT-0050,2026-07-09,Agent 012,Chat,Spain,Promotion Issue,Resolved,313,4,Satisfied,28,1,0
+INT-0886,2026-07-09,Agent 004,Call,Spain,Order Cancellation,Resolved,373,4,Satisfied,28,1,0
+INT-0577,2026-07-09,Agent 016,Call,Spain,Promotion Issue,Resolved,436,3,Neutral,28,0,0
+INT-0689,2026-07-09,Agent 019,Call,Spain,Refund Request,Resolved,642,3,Neutral,28,0,0
+INT-0770,2026-07-09,Agent 013,Chat,Italy,Payment Issue,Resolved,480,4,Satisfied,28,1,0
+INT-0402,2026-07-09,Agent 005,Chat,Spain,Missing Items,Partially Resolved,449,1,Dissatisfied,28,0,1
+INT-0467,2026-07-09,Agent 009,Call,Spain,Refund Request,Resolved,701,3,Neutral,28,0,0
+INT-0869,2026-07-09,Agent 014,Call,Spain,Order Status,Resolved,413,4,Satisfied,28,1,0
+INT-0503,2026-07-09,Agent 007,Call,Spain,Refund Request,Partially Resolved,849,2,Dissatisfied,28,0,1
+INT-0331,2026-07-09,Agent 012,Chat,Spain,Order Status,Resolved,120,5,Satisfied,28,1,0
+INT-0802,2026-07-09,Agent 009,Chat,Spain,Order Cancellation,Resolved,431,4,Satisfied,28,1,0
+INT-0944,2026-07-09,Agent 012,Call,Italy,Promotion Issue,Resolved,443,4,Satisfied,28,1,0
+INT-0418,2026-07-09,Agent 017,Chat,Spain,Order Status,Not Resolved,370,1,Dissatisfied,28,0,1
+INT-0218,2026-07-10,Agent 002,Chat,Spain,Refund Request,Resolved,616,3,Neutral,28,0,0
+INT-0739,2026-07-10,Agent 002,Chat,Spain,Wrong Order,Resolved,584,4,Satisfied,28,1,0
+INT-0038,2026-07-10,Agent 006,Chat,Spain,Late Delivery,Not Resolved,469,2,Dissatisfied,28,0,1
+INT-0797,2026-07-10,Agent 009,Chat,Portugal,Missing Items,Resolved,450,5,Satisfied,28,1,0
+INT-0366,2026-07-10,Agent 013,Chat,Spain,Order Status,Partially Resolved,360,4,Satisfied,28,1,0
+INT-0143,2026-07-10,Agent 019,Chat,Spain,Wrong Order,Resolved,529,4,Satisfied,28,1,0
+INT-0508,2026-07-10,Agent 002,Chat,Portugal,Payment Issue,Resolved,802,5,Satisfied,28,1,0
+INT-0105,2026-07-10,Agent 001,Chat,Spain,Missing Items,Resolved,592,5,Satisfied,28,1,0
+INT-0463,2026-07-10,Agent 014,Chat,Spain,Order Status,Resolved,410,3,Neutral,28,0,0
+INT-0623,2026-07-10,Agent 012,Email,Spain,Late Delivery,Resolved,375,5,Satisfied,28,1,0
+INT-0109,2026-07-10,Agent 003,Email,Spain,Order Status,Resolved,317,5,Satisfied,28,1,0
+INT-0373,2026-07-10,Agent 009,Email,Spain,Late Delivery,Not Resolved,603,1,Dissatisfied,28,0,1
+INT-0782,2026-07-10,Agent 012,Chat,Spain,Late Delivery,Resolved,460,5,Satisfied,28,1,0
+INT-0114,2026-07-10,Agent 012,Call,Spain,Missing Items,Resolved,855,4,Satisfied,28,1,0
+INT-0119,2026-07-10,Agent 009,Call,Spain,Missing Items,Partially Resolved,761,2,Dissatisfied,28,0,1
+INT-0803,2026-07-10,Agent 003,Chat,Portugal,Payment Issue,Not Resolved,684,3,Neutral,28,0,0
+INT-0798,2026-07-11,Agent 013,Chat,Spain,Delivery Instructions,Resolved,324,4,Satisfied,28,1,0
+INT-0276,2026-07-11,Agent 009,Chat,Spain,Delivery Instructions,Resolved,401,3,Neutral,28,0,0
+INT-0269,2026-07-11,Agent 001,Chat,Spain,Late Delivery,Partially Resolved,245,2,Dissatisfied,28,0,1
+INT-0220,2026-07-11,Agent 007,Chat,Spain,Order Status,Resolved,404,4,Satisfied,28,1,0
+INT-0676,2026-07-11,Agent 009,Chat,Spain,Account Issue,Not Resolved,405,2,Dissatisfied,28,0,1
+INT-0253,2026-07-11,Agent 010,Chat,Spain,Delivery Instructions,Resolved,274,5,Satisfied,28,1,0
+INT-0686,2026-07-11,Agent 007,Call,Portugal,Account Issue,Resolved,366,5,Satisfied,28,1,0
+INT-0250,2026-07-11,Agent 019,Chat,Italy,Late Delivery,Resolved,580,3,Neutral,28,0,0
+INT-0822,2026-07-11,Agent 003,Chat,Portugal,Late Delivery,Resolved,575,4,Satisfied,28,1,0
+INT-0390,2026-07-11,Agent 005,Chat,Spain,Late Delivery,Resolved,472,3,Neutral,28,0,0
+INT-0382,2026-07-11,Agent 006,Chat,Spain,Order Cancellation,Resolved,642,3,Neutral,28,0,0
+INT-0173,2026-07-11,Agent 007,Chat,Spain,Late Delivery,Resolved,518,4,Satisfied,28,1,0
+INT-0477,2026-07-11,Agent 014,Chat,Spain,Wrong Order,Resolved,513,5,Satisfied,28,1,0
+INT-0943,2026-07-11,Agent 007,Chat,Spain,Delivery Instructions,Resolved,371,4,Satisfied,28,1,0
+INT-0610,2026-07-11,Agent 012,Call,Spain,Order Status,Resolved,326,3,Neutral,28,0,0
+INT-0054,2026-07-11,Agent 012,Email,Italy,Order Status,Resolved,224,5,Satisfied,28,1,0
+INT-0865,2026-07-11,Agent 020,Chat,Spain,Missing Items,Resolved,656,2,Dissatisfied,28,0,1
+INT-0906,2026-07-12,Agent 018,Call,Spain,Missing Items,Partially Resolved,549,4,Satisfied,28,1,0
+INT-0137,2026-07-12,Agent 020,Chat,Spain,Order Cancellation,Resolved,452,4,Satisfied,28,1,0
+INT-0575,2026-07-12,Agent 014,Chat,Spain,Refund Request,Resolved,624,3,Neutral,28,0,0
+INT-0887,2026-07-12,Agent 005,Email,Spain,Account Issue,Resolved,435,4,Satisfied,28,1,0
+INT-0938,2026-07-12,Agent 020,Call,Spain,Order Status,Resolved,403,5,Satisfied,28,1,0
+INT-0108,2026-07-12,Agent 004,Email,Spain,Payment Issue,Resolved,357,4,Satisfied,28,1,0
+INT-0312,2026-07-12,Agent 017,Chat,Spain,Order Status,Resolved,295,4,Satisfied,28,1,0
+INT-0278,2026-07-12,Agent 012,Call,Spain,Order Status,Not Resolved,364,2,Dissatisfied,28,0,1
+INT-0424,2026-07-12,Agent 002,Call,Spain,Late Delivery,Resolved,625,5,Satisfied,28,1,0
+INT-0208,2026-07-12,Agent 014,Call,Spain,Payment Issue,Resolved,642,5,Satisfied,28,1,0
+INT-0726,2026-07-12,Agent 013,Call,Portugal,Delivery Instructions,Resolved,424,5,Satisfied,28,1,0
+INT-0998,2026-07-12,Agent 003,Chat,Portugal,Refund Request,Resolved,967,4,Satisfied,28,1,0
+INT-0118,2026-07-12,Agent 012,Chat,Spain,Delivery Instructions,Resolved,540,4,Satisfied,28,1,0
+INT-0439,2026-07-12,Agent 018,Chat,Italy,Wrong Order,Partially Resolved,623,2,Dissatisfied,28,0,1
+INT-0025,2026-07-12,Agent 004,Chat,Spain,Promotion Issue,Resolved,432,3,Neutral,28,0,0
+INT-0728,2026-07-12,Agent 006,Chat,Spain,Order Status,Not Resolved,211,2,Dissatisfied,28,0,1
+INT-0354,2026-07-12,Agent 009,Chat,Spain,Late Delivery,Partially Resolved,469,2,Dissatisfied,28,0,1
+INT-0637,2026-07-12,Agent 003,Chat,Spain,Late Delivery,Resolved,743,4,Satisfied,28,1,0
+INT-0609,2026-07-13,Agent 002,Email,Spain,Order Status,Not Resolved,249,3,Neutral,29,0,0
+INT-0434,2026-07-13,Agent 004,Call,Spain,Order Status,Resolved,440,4,Satisfied,29,1,0
+INT-0342,2026-07-13,Agent 005,Call,Spain,Delivery Instructions,Partially Resolved,488,2,Dissatisfied,29,0,1
+INT-0224,2026-07-13,Agent 016,Chat,Portugal,Order Cancellation,Resolved,340,3,Neutral,29,0,0
+INT-0167,2026-07-13,Agent 011,Chat,Portugal,Order Status,Resolved,475,5,Satisfied,29,1,0
+INT-0388,2026-07-13,Agent 012,Chat,Spain,Order Status,Resolved,335,4,Satisfied,29,1,0
+INT-0197,2026-07-13,Agent 015,Chat,Spain,Order Status,Not Resolved,267,3,Neutral,29,0,0
+INT-0924,2026-07-13,Agent 003,Call,Spain,Order Cancellation,Resolved,518,4,Satisfied,29,1,0
+INT-0195,2026-07-13,Agent 009,Chat,Portugal,Order Status,Resolved,190,5,Satisfied,29,1,0
+INT-0406,2026-07-13,Agent 015,Call,Spain,Payment Issue,Resolved,545,5,Satisfied,29,1,0
+INT-0244,2026-07-13,Agent 007,Email,Spain,Payment Issue,Resolved,517,4,Satisfied,29,1,0
+INT-0338,2026-07-14,Agent 013,Chat,Spain,Refund Request,Resolved,250,2,Dissatisfied,29,0,1
+INT-0226,2026-07-14,Agent 004,Chat,Spain,Account Issue,Resolved,327,5,Satisfied,29,1,0
+INT-0765,2026-07-14,Agent 012,Chat,Spain,Late Delivery,Resolved,612,4,Satisfied,29,1,0
+INT-0099,2026-07-14,Agent 012,Chat,Spain,Refund Request,Resolved,694,2,Dissatisfied,29,0,1
+INT-0192,2026-07-14,Agent 017,Chat,Spain,Wrong Order,Resolved,520,5,Satisfied,29,1,0
+INT-0955,2026-07-14,Agent 016,Chat,Spain,Missing Items,Resolved,580,5,Satisfied,29,1,0
+INT-0973,2026-07-14,Agent 003,Chat,Spain,Order Status,Resolved,433,5,Satisfied,29,1,0
+INT-0892,2026-07-14,Agent 020,Chat,Spain,Payment Issue,Resolved,373,4,Satisfied,29,1,0
+INT-0817,2026-07-14,Agent 003,Call,Spain,Payment Issue,Resolved,683,5,Satisfied,29,1,0
+INT-0621,2026-07-14,Agent 004,Chat,Portugal,Refund Request,Resolved,591,3,Neutral,29,0,0
+INT-0646,2026-07-14,Agent 002,Email,Spain,Refund Request,Partially Resolved,521,3,Neutral,29,0,0
+INT-0978,2026-07-14,Agent 004,Call,Spain,Delivery Instructions,Resolved,632,3,Neutral,29,0,0
+INT-0394,2026-07-14,Agent 016,Chat,Spain,Promotion Issue,Partially Resolved,437,4,Satisfied,29,1,0
+INT-0026,2026-07-14,Agent 018,Email,Spain,Wrong Order,Partially Resolved,504,3,Neutral,29,0,0
+INT-0535,2026-07-14,Agent 014,Chat,Spain,Refund Request,Resolved,513,3,Neutral,29,0,0
+INT-0326,2026-07-14,Agent 007,Chat,Spain,Refund Request,Resolved,810,3,Neutral,29,0,0
+INT-0266,2026-07-15,Agent 020,Chat,Italy,Refund Request,Resolved,483,5,Satisfied,29,1,0
+INT-0963,2026-07-15,Agent 017,Chat,Spain,Delivery Instructions,Resolved,548,4,Satisfied,29,1,0
+INT-0507,2026-07-15,Agent 007,Call,Spain,Wrong Order,Partially Resolved,698,3,Neutral,29,0,0
+INT-0843,2026-07-15,Agent 014,Chat,Spain,Order Cancellation,Resolved,529,3,Neutral,29,0,0
+INT-0157,2026-07-15,Agent 003,Chat,Portugal,Order Status,Partially Resolved,263,5,Satisfied,29,1,0
+INT-0163,2026-07-15,Agent 015,Call,Portugal,Late Delivery,Resolved,459,5,Satisfied,29,1,0
+INT-0234,2026-07-15,Agent 006,Chat,Portugal,Order Status,Resolved,232,5,Satisfied,29,1,0
+INT-0799,2026-07-15,Agent 009,Call,Spain,Delivery Instructions,Resolved,537,5,Satisfied,29,1,0
+INT-0129,2026-07-15,Agent 006,Email,Spain,Wrong Order,Resolved,491,2,Dissatisfied,29,0,1
+INT-0299,2026-07-15,Agent 013,Call,Spain,Refund Request,Partially Resolved,722,2,Dissatisfied,29,0,1
+INT-0051,2026-07-15,Agent 012,Chat,Italy,Wrong Order,Partially Resolved,580,4,Satisfied,29,1,0
+INT-0912,2026-07-15,Agent 008,Call,Spain,Delivery Instructions,Resolved,413,3,Neutral,29,0,0
+INT-0641,2026-07-15,Agent 007,Chat,Spain,Order Cancellation,Resolved,473,5,Satisfied,29,1,0
+INT-0925,2026-07-15,Agent 009,Call,Spain,Missing Items,Resolved,830,5,Satisfied,29,1,0
+INT-0926,2026-07-15,Agent 002,Chat,Spain,Refund Request,Resolved,906,4,Satisfied,29,1,0
+INT-0988,2026-07-15,Agent 011,Chat,Spain,Order Status,Resolved,326,4,Satisfied,29,1,0
+INT-0828,2026-07-15,Agent 002,Chat,Portugal,Missing Items,Resolved,806,4,Satisfied,29,1,0
+INT-0524,2026-07-15,Agent 013,Email,Spain,Payment Issue,Resolved,684,5,Satisfied,29,1,0
+INT-0059,2026-07-16,Agent 005,Call,Spain,Delivery Instructions,Partially Resolved,587,4,Satisfied,29,1,0
+INT-0263,2026-07-16,Agent 019,Call,Spain,Payment Issue,Partially Resolved,608,1,Dissatisfied,29,0,1
+INT-0905,2026-07-16,Agent 006,Chat,Spain,Missing Items,Resolved,618,4,Satisfied,29,1,0
+INT-0794,2026-07-16,Agent 013,Call,Italy,Wrong Order,Resolved,746,3,Neutral,29,0,0
+INT-0512,2026-07-16,Agent 005,Chat,Spain,Wrong Order,Resolved,466,4,Satisfied,29,1,0
+INT-0072,2026-07-16,Agent 007,Email,Portugal,Account Issue,Resolved,343,4,Satisfied,29,1,0
+INT-0756,2026-07-16,Agent 019,Chat,Spain,Late Delivery,Resolved,472,3,Neutral,29,0,0
+INT-0520,2026-07-16,Agent 014,Chat,Spain,Late Delivery,Not Resolved,262,2,Dissatisfied,29,0,1
+INT-0044,2026-07-16,Agent 006,Call,Spain,Order Cancellation,Resolved,197,4,Satisfied,29,1,0
+INT-0849,2026-07-16,Agent 017,Chat,Spain,Payment Issue,Resolved,548,4,Satisfied,29,1,0
+INT-0159,2026-07-16,Agent 006,Email,Italy,Account Issue,Resolved,368,5,Satisfied,29,1,0
+INT-0923,2026-07-16,Agent 001,Call,Spain,Order Cancellation,Resolved,517,5,Satisfied,29,1,0
+INT-0840,2026-07-16,Agent 006,Call,Spain,Refund Request,Partially Resolved,606,2,Dissatisfied,29,0,1
+INT-0599,2026-07-16,Agent 014,Chat,Spain,Order Cancellation,Resolved,402,3,Neutral,29,0,0
+INT-0994,2026-07-16,Agent 001,Call,Spain,Order Cancellation,Partially Resolved,678,3,Neutral,29,0,0
+INT-0987,2026-07-16,Agent 019,Chat,Spain,Missing Items,Resolved,472,2,Dissatisfied,29,0,1
+INT-0422,2026-07-16,Agent 010,Chat,Spain,Order Cancellation,Resolved,412,5,Satisfied,29,1,0
+INT-0387,2026-07-16,Agent 015,Call,Portugal,Order Cancellation,Resolved,412,4,Satisfied,29,1,0
+INT-0514,2026-07-16,Agent 006,Chat,Spain,Payment Issue,Not Resolved,659,3,Neutral,29,0,0
+INT-0482,2026-07-16,Agent 015,Chat,Italy,Refund Request,Not Resolved,788,2,Dissatisfied,29,0,1
+INT-0773,2026-07-16,Agent 017,Call,Spain,Late Delivery,Not Resolved,765,2,Dissatisfied,29,0,1
+INT-0241,2026-07-16,Agent 011,Email,Spain,Late Delivery,Partially Resolved,560,3,Neutral,29,0,0
+INT-0101,2026-07-16,Agent 017,Chat,Italy,Late Delivery,Not Resolved,578,2,Dissatisfied,29,0,1
+INT-0486,2026-07-17,Agent 014,Chat,Spain,Late Delivery,Partially Resolved,710,2,Dissatisfied,29,0,1
+INT-0313,2026-07-17,Agent 018,Chat,Spain,Order Cancellation,Resolved,567,3,Neutral,29,0,0
+INT-0115,2026-07-17,Agent 001,Call,Spain,Order Status,Resolved,454,3,Neutral,29,0,0
+INT-0727,2026-07-17,Agent 012,Chat,Spain,Order Status,Resolved,279,4,Satisfied,29,1,0
+INT-0557,2026-07-17,Agent 019,Chat,Spain,Delivery Instructions,Partially Resolved,309,5,Satisfied,29,1,0
+INT-0337,2026-07-17,Agent 010,Chat,Spain,Missing Items,Resolved,572,4,Satisfied,29,1,0
+INT-0092,2026-07-17,Agent 014,Call,Spain,Refund Request,Resolved,633,4,Satisfied,29,1,0
+INT-0789,2026-07-17,Agent 019,Chat,Spain,Late Delivery,Resolved,421,4,Satisfied,29,1,0
+INT-0899,2026-07-17,Agent 009,Chat,Spain,Promotion Issue,Partially Resolved,156,3,Neutral,29,0,0
+INT-0838,2026-07-17,Agent 018,Chat,Spain,Late Delivery,Partially Resolved,516,4,Satisfied,29,1,0
+INT-0874,2026-07-17,Agent 001,Chat,Italy,Refund Request,Resolved,365,5,Satisfied,29,1,0
+INT-0677,2026-07-17,Agent 008,Chat,Spain,Delivery Instructions,Resolved,536,4,Satisfied,29,1,0
+INT-0872,2026-07-17,Agent 013,Chat,Spain,Wrong Order,Resolved,601,4,Satisfied,29,1,0
+INT-0183,2026-07-17,Agent 010,Email,Spain,Delivery Instructions,Resolved,199,3,Neutral,29,0,0
+INT-0959,2026-07-17,Agent 012,Call,Italy,Late Delivery,Resolved,629,5,Satisfied,29,1,0
+INT-0801,2026-07-17,Agent 013,Chat,Spain,Order Cancellation,Partially Resolved,531,3,Neutral,29,0,0
+INT-0036,2026-07-17,Agent 010,Chat,Spain,Delivery Instructions,Resolved,335,3,Neutral,29,0,0
+INT-0974,2026-07-18,Agent 011,Chat,Spain,Account Issue,Resolved,473,3,Neutral,29,0,0
+INT-0150,2026-07-18,Agent 014,Chat,Italy,Delivery Instructions,Resolved,400,5,Satisfied,29,1,0
+INT-0665,2026-07-18,Agent 010,Chat,Portugal,Promotion Issue,Partially Resolved,438,3,Neutral,29,0,0
+INT-0956,2026-07-18,Agent 012,Chat,Spain,Promotion Issue,Partially Resolved,310,4,Satisfied,29,1,0
+INT-0873,2026-07-18,Agent 015,Chat,Spain,Late Delivery,Partially Resolved,575,3,Neutral,29,0,0
+INT-0145,2026-07-18,Agent 018,Call,Portugal,Order Status,Resolved,451,3,Neutral,29,0,0
+INT-0142,2026-07-18,Agent 006,Chat,Spain,Account Issue,Resolved,398,3,Neutral,29,0,0
+INT-0172,2026-07-18,Agent 009,Chat,Portugal,Order Status,Resolved,256,4,Satisfied,29,1,0
+INT-0461,2026-07-18,Agent 017,Chat,Portugal,Account Issue,Resolved,288,5,Satisfied,29,1,0
+INT-0110,2026-07-18,Agent 018,Chat,Spain,Refund Request,Partially Resolved,461,3,Neutral,29,0,0
+INT-0235,2026-07-18,Agent 003,Call,Italy,Account Issue,Resolved,504,4,Satisfied,29,1,0
+INT-0656,2026-07-18,Agent 005,Chat,Italy,Refund Request,Resolved,817,4,Satisfied,29,1,0
+INT-0690,2026-07-18,Agent 006,Chat,Portugal,Delivery Instructions,Resolved,417,4,Satisfied,29,1,0
+INT-0003,2026-07-18,Agent 013,Chat,Portugal,Wrong Order,Resolved,622,5,Satisfied,29,1,0
+INT-0405,2026-07-18,Agent 009,Chat,Portugal,Refund Request,Resolved,634,4,Satisfied,29,1,0
+INT-0219,2026-07-18,Agent 005,Call,Spain,Late Delivery,Resolved,676,3,Neutral,29,0,0
+INT-0559,2026-07-18,Agent 013,Chat,Spain,Order Cancellation,Resolved,702,2,Dissatisfied,29,0,1
+INT-0537,2026-07-18,Agent 019,Call,Spain,Order Status,Resolved,212,5,Satisfied,29,1,0
+INT-0795,2026-07-18,Agent 018,Chat,Italy,Payment Issue,Resolved,807,5,Satisfied,29,1,0
+INT-0754,2026-07-18,Agent 013,Chat,Spain,Refund Request,Resolved,715,5,Satisfied,29,1,0
+INT-0904,2026-07-18,Agent 002,Chat,Italy,Wrong Order,Resolved,481,4,Satisfied,29,1,0
+INT-0580,2026-07-19,Agent 011,Call,Spain,Refund Request,Resolved,550,3,Neutral,29,0,0
+INT-0494,2026-07-19,Agent 012,Chat,Spain,Order Cancellation,Not Resolved,257,2,Dissatisfied,29,0,1
+INT-0030,2026-07-19,Agent 011,Chat,Spain,Order Status,Resolved,368,3,Neutral,29,0,0
+INT-0069,2026-07-19,Agent 009,Chat,Spain,Payment Issue,Resolved,284,4,Satisfied,29,1,0
+INT-0447,2026-07-19,Agent 004,Call,Spain,Late Delivery,Resolved,348,5,Satisfied,29,1,0
+INT-0334,2026-07-19,Agent 001,Chat,Spain,Missing Items,Partially Resolved,854,3,Neutral,29,0,0
+INT-0760,2026-07-19,Agent 019,Call,Spain,Account Issue,Resolved,438,4,Satisfied,29,1,0
+INT-0929,2026-07-19,Agent 018,Chat,Spain,Late Delivery,Partially Resolved,590,3,Neutral,29,0,0
+INT-0516,2026-07-19,Agent 002,Email,Portugal,Order Status,Resolved,247,4,Satisfied,29,1,0
+INT-0450,2026-07-19,Agent 020,Chat,Spain,Missing Items,Resolved,418,3,Neutral,29,0,0
+INT-0287,2026-07-19,Agent 008,Chat,Spain,Payment Issue,Resolved,544,5,Satisfied,29,1,0
+INT-0796,2026-07-19,Agent 015,Chat,Spain,Order Cancellation,Resolved,512,3,Neutral,29,0,0
+INT-0019,2026-07-19,Agent 019,Chat,Spain,Payment Issue,Resolved,805,3,Neutral,29,0,0
+INT-0097,2026-07-19,Agent 010,Chat,Spain,Order Status,Resolved,260,5,Satisfied,29,1,0
+INT-0826,2026-07-19,Agent 017,Chat,Portugal,Refund Request,Resolved,913,3,Neutral,29,0,0
+INT-0622,2026-07-19,Agent 005,Call,Spain,Refund Request,Resolved,848,4,Satisfied,29,1,0
+INT-0277,2026-07-19,Agent 019,Email,Italy,Late Delivery,Not Resolved,538,2,Dissatisfied,29,0,1
+INT-0766,2026-07-19,Agent 007,Chat,Spain,Promotion Issue,Resolved,533,5,Satisfied,29,1,0
+INT-0763,2026-07-19,Agent 006,Chat,Portugal,Promotion Issue,Resolved,568,3,Neutral,29,0,0
+INT-0247,2026-07-19,Agent 005,Chat,Spain,Missing Items,Partially Resolved,340,3,Neutral,29,0,0
+INT-0591,2026-07-20,Agent 008,Chat,Spain,Wrong Order,Resolved,595,3,Neutral,30,0,0
+INT-0249,2026-07-20,Agent 005,Chat,Italy,Missing Items,Resolved,767,4,Satisfied,30,1,0
+INT-0935,2026-07-20,Agent 017,Chat,Italy,Late Delivery,Resolved,493,5,Satisfied,30,1,0
+INT-0730,2026-07-20,Agent 017,Chat,Italy,Delivery Instructions,Not Resolved,346,2,Dissatisfied,30,0,1
+INT-0102,2026-07-20,Agent 020,Chat,Spain,Late Delivery,Resolved,598,4,Satisfied,30,1,0
+INT-0032,2026-07-20,Agent 020,Chat,Spain,Account Issue,Resolved,376,5,Satisfied,30,1,0
+INT-0861,2026-07-20,Agent 010,Chat,Spain,Payment Issue,Resolved,554,5,Satisfied,30,1,0
+INT-0311,2026-07-20,Agent 006,Chat,Italy,Order Status,Partially Resolved,436,5,Satisfied,30,1,0
+INT-0435,2026-07-20,Agent 008,Call,Spain,Refund Request,Resolved,826,4,Satisfied,30,1,0
+INT-0630,2026-07-20,Agent 006,Chat,Spain,Payment Issue,Partially Resolved,414,4,Satisfied,30,1,0
+INT-0316,2026-07-20,Agent 004,Chat,Italy,Promotion Issue,Resolved,354,4,Satisfied,30,1,0
+INT-0361,2026-07-20,Agent 011,Call,Spain,Order Cancellation,Resolved,546,4,Satisfied,30,1,0
+INT-0023,2026-07-20,Agent 003,Call,Italy,Order Status,Partially Resolved,408,4,Satisfied,30,1,0
+INT-0506,2026-07-20,Agent 017,Chat,Portugal,Missing Items,Resolved,455,5,Satisfied,30,1,0
+INT-0245,2026-07-20,Agent 012,Call,Spain,Delivery Instructions,Resolved,458,3,Neutral,30,0,0
+INT-0154,2026-07-20,Agent 017,Chat,Italy,Delivery Instructions,Not Resolved,337,3,Neutral,30,0,0
+INT-0380,2026-07-20,Agent 012,Call,Spain,Wrong Order,Resolved,556,2,Dissatisfied,30,0,1
+INT-0378,2026-07-20,Agent 017,Chat,Spain,Account Issue,Resolved,213,4,Satisfied,30,1,0
+INT-0954,2026-07-20,Agent 001,Chat,Spain,Payment Issue,Resolved,599,4,Satisfied,30,1,0
+INT-0563,2026-07-21,Agent 002,Chat,Spain,Refund Request,Resolved,460,3,Neutral,30,0,0
+INT-0561,2026-07-21,Agent 020,Chat,Italy,Refund Request,Resolved,621,4,Satisfied,30,1,0
+INT-0363,2026-07-21,Agent 006,Chat,Spain,Refund Request,Resolved,962,2,Dissatisfied,30,0,1
+INT-0713,2026-07-21,Agent 013,Call,Spain,Account Issue,Resolved,479,4,Satisfied,30,1,0
+INT-0615,2026-07-21,Agent 002,Call,Spain,Missing Items,Resolved,732,5,Satisfied,30,1,0
+INT-0352,2026-07-21,Agent 002,Call,Spain,Wrong Order,Resolved,349,5,Satisfied,30,1,0
+INT-1000,2026-07-21,Agent 005,Chat,Spain,Payment Issue,Resolved,560,3,Neutral,30,0,0
+INT-0076,2026-07-21,Agent 001,Call,Spain,Refund Request,Resolved,434,4,Satisfied,30,1,0
+INT-0164,2026-07-21,Agent 004,Call,Spain,Wrong Order,Partially Resolved,671,4,Satisfied,30,1,0
+INT-0148,2026-07-21,Agent 014,Chat,Spain,Payment Issue,Resolved,683,4,Satisfied,30,1,0
+INT-0812,2026-07-21,Agent 002,Email,Spain,Late Delivery,Resolved,312,4,Satisfied,30,1,0
+INT-0231,2026-07-21,Agent 015,Chat,Spain,Refund Request,Resolved,705,4,Satisfied,30,1,0
+INT-0136,2026-07-21,Agent 011,Chat,Spain,Refund Request,Partially Resolved,485,2,Dissatisfied,30,0,1
+INT-0900,2026-07-21,Agent 010,Call,Spain,Order Status,Not Resolved,263,3,Neutral,30,0,0
+INT-0147,2026-07-21,Agent 009,Chat,Spain,Payment Issue,Resolved,703,4,Satisfied,30,1,0
+INT-0917,2026-07-21,Agent 015,Chat,Spain,Missing Items,Resolved,647,5,Satisfied,30,1,0
+INT-0939,2026-07-22,Agent 006,Call,Spain,Payment Issue,Resolved,814,4,Satisfied,30,1,0
+INT-0376,2026-07-22,Agent 015,Chat,Portugal,Missing Items,Resolved,579,4,Satisfied,30,1,0
+INT-0780,2026-07-22,Agent 006,Call,Italy,Refund Request,Resolved,1068,5,Satisfied,30,1,0
+INT-0464,2026-07-22,Agent 020,Chat,Spain,Wrong Order,Resolved,367,4,Satisfied,30,1,0
+INT-0847,2026-07-22,Agent 013,Call,Portugal,Refund Request,Partially Resolved,1162,2,Dissatisfied,30,0,1
+INT-0264,2026-07-22,Agent 006,Call,Spain,Missing Items,Resolved,305,4,Satisfied,30,1,0
+INT-0809,2026-07-22,Agent 017,Chat,Spain,Refund Request,Partially Resolved,689,2,Dissatisfied,30,0,1
+INT-0827,2026-07-22,Agent 011,Chat,Portugal,Order Status,Resolved,414,5,Satisfied,30,1,0
+INT-0285,2026-07-22,Agent 018,Chat,Spain,Late Delivery,Resolved,349,3,Neutral,30,0,0
+INT-0970,2026-07-22,Agent 020,Chat,Italy,Promotion Issue,Resolved,402,4,Satisfied,30,1,0
+INT-0628,2026-07-22,Agent 012,Chat,Spain,Order Cancellation,Resolved,414,5,Satisfied,30,1,0
+INT-0340,2026-07-22,Agent 016,Chat,Spain,Promotion Issue,Resolved,568,5,Satisfied,30,1,0
+INT-0746,2026-07-22,Agent 009,Call,Spain,Refund Request,Partially Resolved,714,2,Dissatisfied,30,0,1
+INT-0584,2026-07-22,Agent 016,Chat,Spain,Order Cancellation,Partially Resolved,596,3,Neutral,30,0,0
+INT-0321,2026-07-22,Agent 002,Email,Spain,Order Cancellation,Not Resolved,377,2,Dissatisfied,30,0,1
+INT-0175,2026-07-22,Agent 005,Chat,Spain,Account Issue,Not Resolved,513,3,Neutral,30,0,0
+INT-0587,2026-07-22,Agent 001,Call,Spain,Missing Items,Resolved,493,4,Satisfied,30,1,0
+INT-0367,2026-07-23,Agent 002,Chat,Spain,Late Delivery,Resolved,567,2,Dissatisfied,30,0,1
+INT-0693,2026-07-23,Agent 007,Chat,Portugal,Payment Issue,Resolved,634,5,Satisfied,30,1,0
+INT-0162,2026-07-23,Agent 014,Chat,Spain,Promotion Issue,Resolved,577,5,Satisfied,30,1,0
+INT-0684,2026-07-23,Agent 015,Chat,Spain,Order Status,Resolved,360,4,Satisfied,30,1,0
+INT-0004,2026-07-23,Agent 010,Email,Spain,Payment Issue,Partially Resolved,481,3,Neutral,30,0,0
+INT-0230,2026-07-23,Agent 020,Call,Spain,Payment Issue,Resolved,463,5,Satisfied,30,1,0
+INT-0673,2026-07-23,Agent 006,Call,Spain,Order Status,Resolved,501,5,Satisfied,30,1,0
+INT-0940,2026-07-23,Agent 005,Chat,Spain,Wrong Order,Resolved,607,5,Satisfied,30,1,0
+INT-0274,2026-07-23,Agent 001,Chat,Spain,Payment Issue,Resolved,696,4,Satisfied,30,1,0
+INT-0130,2026-07-23,Agent 020,Call,Spain,Missing Items,Not Resolved,631,1,Dissatisfied,30,0,1
+INT-0459,2026-07-23,Agent 002,Chat,Spain,Delivery Instructions,Resolved,346,4,Satisfied,30,1,0
+INT-0835,2026-07-23,Agent 010,Chat,Spain,Refund Request,Partially Resolved,700,1,Dissatisfied,30,0,1
+INT-0889,2026-07-23,Agent 017,Chat,Spain,Account Issue,Resolved,424,5,Satisfied,30,1,0
+INT-0953,2026-07-23,Agent 009,Call,Spain,Delivery Instructions,Partially Resolved,143,3,Neutral,30,0,0
+INT-0536,2026-07-23,Agent 010,Email,Spain,Account Issue,Partially Resolved,371,4,Satisfied,30,1,0
+INT-0369,2026-07-23,Agent 009,Call,Italy,Account Issue,Not Resolved,594,1,Dissatisfied,30,0,1
+INT-0196,2026-07-23,Agent 009,Chat,Spain,Promotion Issue,Partially Resolved,524,3,Neutral,30,0,0
+INT-0468,2026-07-23,Agent 016,Chat,Spain,Missing Items,Resolved,810,5,Satisfied,30,1,0
+INT-0347,2026-07-24,Agent 020,Call,Spain,Promotion Issue,Resolved,603,4,Satisfied,30,1,0
+INT-0431,2026-07-24,Agent 005,Chat,Italy,Delivery Instructions,Resolved,462,4,Satisfied,30,1,0
+INT-0853,2026-07-24,Agent 016,Call,Spain,Wrong Order,Partially Resolved,871,5,Satisfied,30,1,0
+INT-0171,2026-07-24,Agent 017,Chat,Spain,Delivery Instructions,Resolved,267,4,Satisfied,30,1,0
+INT-0640,2026-07-24,Agent 016,Chat,Spain,Wrong Order,Resolved,503,5,Satisfied,30,1,0
+INT-0113,2026-07-24,Agent 001,Chat,Spain,Payment Issue,Resolved,683,2,Dissatisfied,30,0,1
+INT-0125,2026-07-24,Agent 009,Chat,Spain,Account Issue,Resolved,447,5,Satisfied,30,1,0
+INT-0251,2026-07-24,Agent 002,Chat,Italy,Payment Issue,Resolved,392,3,Neutral,30,0,0
+INT-0546,2026-07-24,Agent 015,Call,Spain,Missing Items,Resolved,523,4,Satisfied,30,1,0
+INT-0497,2026-07-24,Agent 001,Chat,Spain,Missing Items,Resolved,642,5,Satisfied,30,1,0
+INT-0375,2026-07-24,Agent 004,Chat,Spain,Order Cancellation,Resolved,364,5,Satisfied,30,1,0
+INT-0986,2026-07-24,Agent 003,Call,Spain,Missing Items,Resolved,583,5,Satisfied,30,1,0
+INT-0806,2026-07-24,Agent 008,Email,Portugal,Order Cancellation,Resolved,469,4,Satisfied,30,1,0
+INT-0701,2026-07-24,Agent 002,Call,Spain,Payment Issue,Resolved,653,3,Neutral,30,0,0
+INT-0271,2026-07-24,Agent 002,Chat,Portugal,Late Delivery,Resolved,325,3,Neutral,30,0,0
+INT-0427,2026-07-25,Agent 016,Call,Spain,Late Delivery,Partially Resolved,180,4,Satisfied,30,1,0
+INT-0891,2026-07-25,Agent 016,Call,Spain,Order Status,Resolved,494,5,Satisfied,30,1,0
+INT-0216,2026-07-25,Agent 006,Chat,Spain,Refund Request,Resolved,394,5,Satisfied,30,1,0
+INT-0068,2026-07-25,Agent 013,Chat,Spain,Order Status,Resolved,456,5,Satisfied,30,1,0
+INT-0430,2026-07-25,Agent 006,Chat,Portugal,Missing Items,Resolved,387,4,Satisfied,30,1,0
+INT-0091,2026-07-25,Agent 017,Call,Spain,Missing Items,Partially Resolved,664,2,Dissatisfied,30,0,1
+INT-0601,2026-07-25,Agent 016,Chat,Spain,Order Cancellation,Resolved,353,5,Satisfied,30,1,0
+INT-0377,2026-07-25,Agent 015,Call,Spain,Delivery Instructions,Resolved,761,5,Satisfied,30,1,0
+INT-0683,2026-07-25,Agent 019,Chat,Spain,Wrong Order,Resolved,607,4,Satisfied,30,1,0
+INT-0242,2026-07-25,Agent 008,Email,Spain,Late Delivery,Not Resolved,504,4,Satisfied,30,1,0
+INT-0983,2026-07-26,Agent 015,Email,Spain,Refund Request,Not Resolved,466,3,Neutral,30,0,0
+INT-0757,2026-07-26,Agent 008,Call,Portugal,Payment Issue,Resolved,428,4,Satisfied,30,1,0
+INT-0207,2026-07-26,Agent 009,Email,Italy,Late Delivery,Resolved,569,5,Satisfied,30,1,0
+INT-0721,2026-07-26,Agent 012,Chat,Spain,Wrong Order,Resolved,267,3,Neutral,30,0,0
+INT-0595,2026-07-26,Agent 015,Chat,Spain,Order Status,Resolved,291,5,Satisfied,30,1,0
+INT-0556,2026-07-26,Agent 011,Call,Spain,Wrong Order,Resolved,644,4,Satisfied,30,1,0
+INT-0302,2026-07-26,Agent 008,Chat,Spain,Refund Request,Resolved,531,4,Satisfied,30,1,0
+INT-0012,2026-07-26,Agent 017,Chat,Spain,Delivery Instructions,Resolved,447,4,Satisfied,30,1,0
+INT-0106,2026-07-26,Agent 009,Chat,Portugal,Late Delivery,Resolved,473,3,Neutral,30,0,0
+INT-0813,2026-07-26,Agent 019,Call,Spain,Account Issue,Resolved,478,5,Satisfied,30,1,0
+INT-0116,2026-07-26,Agent 011,Call,Spain,Promotion Issue,Partially Resolved,518,3,Neutral,30,0,0
+INT-0066,2026-07-26,Agent 012,Chat,Spain,Delivery Instructions,Not Resolved,468,2,Dissatisfied,30,0,1
+INT-0246,2026-07-26,Agent 019,Chat,Spain,Order Status,Resolved,311,4,Satisfied,30,1,0
+INT-0122,2026-07-26,Agent 011,Chat,Portugal,Refund Request,Partially Resolved,331,3,Neutral,30,0,0
+INT-0590,2026-07-26,Agent 019,Chat,Spain,Order Cancellation,Resolved,565,4,Satisfied,30,1,0
+INT-0386,2026-07-26,Agent 001,Call,Spain,Order Status,Resolved,327,4,Satisfied,30,1,0
+INT-0410,2026-07-26,Agent 001,Chat,Italy,Order Status,Resolved,427,3,Neutral,30,0,0
+INT-0662,2026-07-26,Agent 010,Chat,Spain,Order Status,Resolved,299,5,Satisfied,30,1,0
+INT-0605,2026-07-27,Agent 006,Email,Portugal,Wrong Order,Not Resolved,548,2,Dissatisfied,31,0,1
+INT-0544,2026-07-27,Agent 013,Chat,Spain,Refund Request,Resolved,502,4,Satisfied,31,1,0
+INT-0902,2026-07-27,Agent 019,Chat,Spain,Missing Items,Resolved,592,3,Neutral,31,0,0
+INT-0082,2026-07-27,Agent 019,Chat,Spain,Late Delivery,Partially Resolved,537,3,Neutral,31,0,0
+INT-0084,2026-07-27,Agent 007,Chat,Spain,Payment Issue,Not Resolved,566,3,Neutral,31,0,0
+INT-0189,2026-07-27,Agent 016,Chat,Spain,Late Delivery,Resolved,603,4,Satisfied,31,1,0
+INT-0228,2026-07-27,Agent 005,Email,Spain,Refund Request,Resolved,544,3,Neutral,31,0,0
+INT-0919,2026-07-27,Agent 007,Chat,Portugal,Order Cancellation,Resolved,489,5,Satisfied,31,1,0
+INT-0570,2026-07-27,Agent 012,Chat,Spain,Delivery Instructions,Not Resolved,472,2,Dissatisfied,31,0,1
+INT-0039,2026-07-27,Agent 012,Chat,Spain,Order Status,Resolved,336,4,Satisfied,31,1,0
+INT-0518,2026-07-27,Agent 018,Call,Spain,Order Status,Resolved,282,5,Satisfied,31,1,0
+INT-0487,2026-07-27,Agent 017,Chat,Spain,Order Status,Partially Resolved,277,4,Satisfied,31,1,0
+INT-0566,2026-07-27,Agent 005,Call,Spain,Wrong Order,Resolved,423,3,Neutral,31,0,0
+INT-0666,2026-07-27,Agent 008,Chat,Spain,Missing Items,Partially Resolved,203,4,Satisfied,31,1,0
+INT-0213,2026-07-27,Agent 014,Call,Spain,Wrong Order,Resolved,1031,5,Satisfied,31,1,0
+INT-0688,2026-07-27,Agent 003,Chat,Portugal,Wrong Order,Resolved,419,4,Satisfied,31,1,0
+INT-0193,2026-07-27,Agent 014,Call,Spain,Refund Request,Resolved,676,3,Neutral,31,0,0
+INT-0475,2026-07-28,Agent 014,Call,Portugal,Payment Issue,Resolved,745,4,Satisfied,31,1,0
+INT-0620,2026-07-28,Agent 003,Email,Spain,Delivery Instructions,Resolved,322,4,Satisfied,31,1,0
+INT-0488,2026-07-28,Agent 007,Email,Spain,Order Cancellation,Resolved,344,3,Neutral,31,0,0
+INT-0941,2026-07-28,Agent 006,Chat,Spain,Missing Items,Resolved,530,5,Satisfied,31,1,0
+INT-0663,2026-07-28,Agent 007,Chat,Spain,Order Cancellation,Resolved,574,5,Satisfied,31,1,0
+INT-0248,2026-07-28,Agent 015,Chat,Spain,Late Delivery,Resolved,282,3,Neutral,31,0,0
+INT-0256,2026-07-28,Agent 013,Chat,Spain,Refund Request,Resolved,790,5,Satisfied,31,1,0
+INT-0687,2026-07-28,Agent 009,Chat,Spain,Order Status,Resolved,120,4,Satisfied,31,1,0
+INT-0636,2026-07-28,Agent 010,Chat,Spain,Delivery Instructions,Partially Resolved,620,1,Dissatisfied,31,0,1
+INT-0784,2026-07-28,Agent 014,Chat,Spain,Order Status,Resolved,231,4,Satisfied,31,1,0
+INT-0581,2026-07-28,Agent 004,Chat,Spain,Order Status,Partially Resolved,451,3,Neutral,31,0,0
+INT-0582,2026-07-28,Agent 006,Call,Spain,Payment Issue,Resolved,1058,4,Satisfied,31,1,0
+INT-0222,2026-07-28,Agent 018,Call,Italy,Wrong Order,Not Resolved,338,1,Dissatisfied,31,0,1
+INT-0668,2026-07-28,Agent 004,Chat,Spain,Payment Issue,Resolved,715,4,Satisfied,31,1,0
+INT-0392,2026-07-28,Agent 014,Call,Italy,Late Delivery,Resolved,711,4,Satisfied,31,1,0
+INT-0810,2026-07-28,Agent 017,Call,Spain,Order Status,Resolved,433,4,Satisfied,31,1,0
+INT-0429,2026-07-28,Agent 005,Call,Spain,Refund Request,Resolved,921,5,Satisfied,31,1,0
+INT-0837,2026-07-28,Agent 011,Chat,Spain,Late Delivery,Resolved,540,5,Satisfied,31,1,0
+INT-0049,2026-07-28,Agent 016,Chat,Portugal,Account Issue,Partially Resolved,289,5,Satisfied,31,1,0
+INT-0362,2026-07-28,Agent 004,Chat,Spain,Payment Issue,Resolved,623,5,Satisfied,31,1,0
+INT-0854,2026-07-28,Agent 017,Call,Portugal,Order Status,Resolved,280,4,Satisfied,31,1,0
+INT-0323,2026-07-28,Agent 016,Call,Portugal,Wrong Order,Resolved,411,3,Neutral,31,0,0
+INT-0735,2026-07-28,Agent 014,Chat,Spain,Order Status,Resolved,362,4,Satisfied,31,1,0
+INT-0834,2026-07-28,Agent 004,Chat,Spain,Order Status,Resolved,419,5,Satisfied,31,1,0
+INT-0769,2026-07-29,Agent 003,Call,Spain,Refund Request,Resolved,1028,3,Neutral,31,0,0
+INT-0708,2026-07-29,Agent 001,Call,Portugal,Payment Issue,Not Resolved,525,4,Satisfied,31,1,0
+INT-0365,2026-07-29,Agent 014,Call,Italy,Order Cancellation,Resolved,509,5,Satisfied,31,1,0
+INT-0086,2026-07-29,Agent 018,Email,Spain,Missing Items,Not Resolved,175,2,Dissatisfied,31,0,1
+INT-0296,2026-07-29,Agent 004,Chat,Spain,Refund Request,Resolved,637,4,Satisfied,31,1,0
+INT-0020,2026-07-29,Agent 016,Call,Spain,Payment Issue,Not Resolved,640,1,Dissatisfied,31,0,1
+INT-0286,2026-07-29,Agent 003,Chat,Spain,Order Status,Resolved,293,5,Satisfied,31,1,0
+INT-0776,2026-07-29,Agent 003,Call,Spain,Order Status,Partially Resolved,446,4,Satisfied,31,1,0
+INT-0170,2026-07-29,Agent 004,Chat,Spain,Wrong Order,Not Resolved,570,1,Dissatisfied,31,0,1
+INT-0024,2026-07-29,Agent 017,Chat,Spain,Refund Request,Resolved,507,3,Neutral,31,0,0
+INT-0128,2026-07-29,Agent 006,Chat,Spain,Refund Request,Resolved,411,3,Neutral,31,0,0
+INT-0498,2026-07-29,Agent 006,Chat,Italy,Missing Items,Partially Resolved,885,3,Neutral,31,0,0
+INT-0202,2026-07-29,Agent 010,Call,Spain,Order Cancellation,Resolved,754,2,Dissatisfied,31,0,1
+INT-0884,2026-07-29,Agent 019,Chat,Spain,Order Status,Resolved,279,3,Neutral,31,0,0
+INT-0446,2026-07-29,Agent 020,Call,Spain,Order Status,Resolved,413,5,Satisfied,31,1,0
+INT-0858,2026-07-29,Agent 008,Chat,Spain,Wrong Order,Not Resolved,523,1,Dissatisfied,31,0,1
+INT-0255,2026-07-29,Agent 014,Chat,Italy,Late Delivery,Resolved,539,5,Satisfied,31,1,0
+INT-0927,2026-07-29,Agent 003,Call,Spain,Promotion Issue,Resolved,395,5,Satisfied,31,1,0
+INT-0525,2026-07-30,Agent 001,Call,Spain,Order Cancellation,Resolved,640,4,Satisfied,31,1,0
+INT-0958,2026-07-30,Agent 009,Chat,Spain,Missing Items,Partially Resolved,574,3,Neutral,31,0,0
+INT-0510,2026-07-30,Agent 002,Chat,Spain,Late Delivery,Resolved,568,4,Satisfied,31,1,0
+INT-0534,2026-07-30,Agent 007,Chat,Spain,Refund Request,Resolved,701,2,Dissatisfied,31,0,1
+INT-0037,2026-07-30,Agent 012,Call,Spain,Refund Request,Resolved,1039,3,Neutral,31,0,0
+INT-0008,2026-07-30,Agent 015,Chat,Portugal,Order Status,Partially Resolved,366,4,Satisfied,31,1,0
+INT-0348,2026-07-30,Agent 009,Chat,Spain,Refund Request,Resolved,482,4,Satisfied,31,1,0
+INT-0181,2026-07-30,Agent 003,Chat,Spain,Promotion Issue,Resolved,459,3,Neutral,31,0,0
+INT-0223,2026-07-30,Agent 010,Chat,Spain,Late Delivery,Resolved,649,2,Dissatisfied,31,0,1
+INT-0473,2026-07-30,Agent 006,Call,Spain,Payment Issue,Resolved,670,5,Satisfied,31,1,0
+INT-0127,2026-07-30,Agent 016,Chat,Italy,Missing Items,Resolved,606,3,Neutral,31,0,0
+INT-0346,2026-07-30,Agent 007,Call,Spain,Delivery Instructions,Resolved,459,3,Neutral,31,0,0
+INT-0416,2026-07-30,Agent 008,Chat,Spain,Missing Items,Resolved,329,3,Neutral,31,0,0
+INT-0755,2026-07-31,Agent 002,Chat,Spain,Payment Issue,Resolved,638,5,Satisfied,31,1,0
+INT-0310,2026-07-31,Agent 020,Call,Portugal,Payment Issue,Not Resolved,694,2,Dissatisfied,31,0,1
+INT-0305,2026-07-31,Agent 002,Call,Italy,Wrong Order,Resolved,783,3,Neutral,31,0,0
+INT-0343,2026-07-31,Agent 009,Chat,Spain,Refund Request,Resolved,863,3,Neutral,31,0,0
+INT-0370,2026-07-31,Agent 001,Chat,Spain,Promotion Issue,Resolved,413,4,Satisfied,31,1,0
+INT-0017,2026-07-31,Agent 015,Chat,Spain,Refund Request,Partially Resolved,527,3,Neutral,31,0,0
+INT-0712,2026-07-31,Agent 013,Chat,Spain,Missing Items,Resolved,408,4,Satisfied,31,1,0
+INT-0700,2026-07-31,Agent 013,Call,Spain,Refund Request,Partially Resolved,724,3,Neutral,31,0,0
+INT-0814,2026-07-31,Agent 020,Call,Spain,Refund Request,Partially Resolved,584,3,Neutral,31,0,0
+INT-0403,2026-07-31,Agent 006,Call,Spain,Wrong Order,Resolved,749,4,Satisfied,31,1,0
+INT-0029,2026-07-31,Agent 011,Chat,Spain,Late Delivery,Partially Resolved,388,3,Neutral,31,0,0
+INT-0594,2026-07-31,Agent 019,Call,Portugal,Account Issue,Resolved,468,3,Neutral,31,0,0
+INT-0825,2026-07-31,Agent 011,Chat,Portugal,Missing Items,Resolved,477,3,Neutral,31,0,0
+INT-0325,2026-07-31,Agent 018,Chat,Portugal,Refund Request,Resolved,865,3,Neutral,31,0,0
+INT-0501,2026-07-31,Agent 001,Chat,Spain,Wrong Order,Partially Resolved,523,4,Satisfied,31,1,0
+INT-0626,2026-07-31,Agent 008,Email,Spain,Delivery Instructions,Partially Resolved,366,3,Neutral,31,0,0
+INT-0096,2026-07-31,Agent 019,Email,Spain,Order Cancellation,Resolved,277,4,Satisfied,31,1,0
+INT-0910,2026-07-31,Agent 019,Chat,Spain,Delivery Instructions,Partially Resolved,455,4,Satisfied,31,1,0
+INT-0428,2026-07-31,Agent 016,Chat,Spain,Order Status,Resolved,362,4,Satisfied,31,1,0
+INT-0950,2026-07-31,Agent 015,Chat,Spain,Late Delivery,Resolved,547,2,Dissatisfied,31,0,1
+INT-0960,2026-07-31,Agent 017,Chat,Spain,Missing Items,Partially Resolved,501,4,Satisfied,31,1,0
+INT-0964,2026-08-01,Agent 016,Call,Spain,Payment Issue,Resolved,557,4,Satisfied,31,1,0
+INT-0733,2026-08-01,Agent 008,Chat,Portugal,Account Issue,Resolved,325,3,Neutral,31,0,0
+INT-0088,2026-08-01,Agent 016,Call,Spain,Missing Items,Resolved,533,3,Neutral,31,0,0
+INT-0341,2026-08-01,Agent 003,Call,Spain,Order Status,Resolved,312,4,Satisfied,31,1,0
+INT-0607,2026-08-01,Agent 009,Call,Portugal,Wrong Order,Resolved,479,4,Satisfied,31,1,0
+INT-0540,2026-08-01,Agent 004,Chat,Spain,Payment Issue,Resolved,601,3,Neutral,31,0,0
+INT-0505,2026-08-01,Agent 013,Chat,Spain,Order Cancellation,Resolved,546,5,Satisfied,31,1,0
+INT-0841,2026-08-01,Agent 017,Call,Portugal,Order Status,Resolved,469,4,Satisfied,31,1,0
+INT-0206,2026-08-01,Agent 017,Email,Spain,Order Cancellation,Resolved,474,4,Satisfied,31,1,0
+INT-0240,2026-08-01,Agent 012,Chat,Spain,Refund Request,Resolved,388,4,Satisfied,31,1,0
+INT-0160,2026-08-01,Agent 012,Chat,Spain,Delivery Instructions,Resolved,264,4,Satisfied,31,1,0
+INT-0292,2026-08-01,Agent 007,Email,Spain,Payment Issue,Resolved,489,5,Satisfied,31,1,0
+INT-0445,2026-08-01,Agent 016,Email,Portugal,Wrong Order,Resolved,402,5,Satisfied,31,1,0
+INT-0279,2026-08-01,Agent 004,Call,Portugal,Late Delivery,Resolved,138,5,Satisfied,31,1,0
+INT-0057,2026-08-01,Agent 019,Chat,Portugal,Late Delivery,Resolved,299,4,Satisfied,31,1,0
+INT-0519,2026-08-01,Agent 004,Chat,Spain,Refund Request,Resolved,751,5,Satisfied,31,1,0
+INT-0845,2026-08-02,Agent 009,Chat,Spain,Delivery Instructions,Resolved,524,4,Satisfied,31,1,0
+INT-0913,2026-08-02,Agent 012,Chat,Spain,Order Status,Resolved,393,5,Satisfied,31,1,0
+INT-0647,2026-08-02,Agent 015,Call,Spain,Order Status,Partially Resolved,413,3,Neutral,31,0,0
+INT-0551,2026-08-02,Agent 019,Email,Spain,Order Status,Resolved,267,5,Satisfied,31,1,0
+INT-0961,2026-08-02,Agent 008,Call,Spain,Payment Issue,Not Resolved,800,2,Dissatisfied,31,0,1
+INT-0001,2026-08-02,Agent 020,Chat,Portugal,Late Delivery,Resolved,593,2,Dissatisfied,31,0,1
+INT-0232,2026-08-02,Agent 013,Chat,Spain,Refund Request,Resolved,549,3,Neutral,31,0,0
+INT-0139,2026-08-02,Agent 011,Chat,Spain,Account Issue,Resolved,460,4,Satisfied,31,1,0
+INT-0436,2026-08-02,Agent 020,Chat,Portugal,Payment Issue,Resolved,933,4,Satisfied,31,1,0
+INT-0177,2026-08-02,Agent 008,Call,Spain,Order Status,Resolved,343,4,Satisfied,31,1,0
+INT-0400,2026-08-02,Agent 006,Call,Spain,Late Delivery,Resolved,630,3,Neutral,31,0,0
+INT-0053,2026-08-02,Agent 007,Call,Spain,Payment Issue,Resolved,717,3,Neutral,31,0,0
+INT-0093,2026-08-02,Agent 007,Call,Portugal,Payment Issue,Resolved,908,2,Dissatisfied,31,0,1
+INT-0268,2026-08-02,Agent 003,Chat,Spain,Delivery Instructions,Resolved,588,4,Satisfied,31,1,0
+INT-0132,2026-08-02,Agent 015,Chat,Spain,Order Status,Partially Resolved,331,3,Neutral,31,0,0
+INT-0333,2026-08-02,Agent 015,Chat,Spain,Payment Issue,Resolved,356,5,Satisfied,31,1,0
+INT-0360,2026-08-02,Agent 001,Call,Italy,Late Delivery,Resolved,282,5,Satisfied,31,1,0
+INT-0483,2026-08-02,Agent 017,Chat,Spain,Order Status,Resolved,331,5,Satisfied,31,1,0
+INT-0808,2026-08-03,Agent 018,Call,Portugal,Missing Items,Resolved,634,3,Neutral,32,0,0
+INT-0792,2026-08-03,Agent 008,Call,Spain,Promotion Issue,Partially Resolved,309,4,Satisfied,32,1,0
+INT-0751,2026-08-03,Agent 018,Chat,Spain,Order Cancellation,Resolved,253,5,Satisfied,32,1,0
+INT-0152,2026-08-03,Agent 009,Email,Portugal,Payment Issue,Resolved,526,4,Satisfied,32,1,0
+INT-0879,2026-08-03,Agent 010,Call,Spain,Delivery Instructions,Resolved,589,5,Satisfied,32,1,0
+INT-0383,2026-08-03,Agent 001,Chat,Spain,Promotion Issue,Not Resolved,450,3,Neutral,32,0,0
+INT-0135,2026-08-03,Agent 011,Call,Spain,Refund Request,Partially Resolved,918,2,Dissatisfied,32,0,1
+INT-0280,2026-08-03,Agent 007,Call,Italy,Order Status,Resolved,215,4,Satisfied,32,1,0
+INT-0221,2026-08-03,Agent 016,Chat,Italy,Order Status,Resolved,440,3,Neutral,32,0,0
+INT-0844,2026-08-03,Agent 014,Call,Spain,Order Status,Resolved,313,4,Satisfied,32,1,0
+INT-0908,2026-08-03,Agent 017,Call,Spain,Delivery Instructions,Resolved,464,3,Neutral,32,0,0
+INT-0022,2026-08-03,Agent 003,Chat,Spain,Order Cancellation,Partially Resolved,463,3,Neutral,32,0,0
+INT-0438,2026-08-03,Agent 007,Chat,Spain,Refund Request,Partially Resolved,565,3,Neutral,32,0,0
+INT-0543,2026-08-03,Agent 015,Call,Spain,Late Delivery,Resolved,584,3,Neutral,32,0,0
+INT-0040,2026-08-03,Agent 001,Chat,Spain,Payment Issue,Partially Resolved,597,2,Dissatisfied,32,0,1
+INT-0539,2026-08-03,Agent 013,Chat,Portugal,Payment Issue,Resolved,563,4,Satisfied,32,1,0
+INT-0948,2026-08-03,Agent 005,Call,Spain,Wrong Order,Resolved,632,3,Neutral,32,0,0
+INT-0409,2026-08-03,Agent 001,Chat,Spain,Order Status,Resolved,327,4,Satisfied,32,1,0
+INT-0056,2026-08-03,Agent 001,Call,Spain,Late Delivery,Resolved,286,4,Satisfied,32,1,0
+INT-0651,2026-08-03,Agent 016,Call,Spain,Missing Items,Not Resolved,519,2,Dissatisfied,32,0,1
+INT-0593,2026-08-04,Agent 020,Chat,Spain,Promotion Issue,Resolved,405,5,Satisfied,32,1,0
+INT-0328,2026-08-04,Agent 009,Chat,Spain,Wrong Order,Resolved,717,4,Satisfied,32,1,0
+INT-0372,2026-08-04,Agent 017,Chat,Italy,Late Delivery,Resolved,237,5,Satisfied,32,1,0
+INT-0681,2026-08-04,Agent 016,Chat,Spain,Refund Request,Resolved,474,5,Satisfied,32,1,0
+INT-0936,2026-08-04,Agent 001,Chat,Spain,Payment Issue,Resolved,551,4,Satisfied,32,1,0
+INT-0982,2026-08-04,Agent 007,Call,Spain,Delivery Instructions,Resolved,448,4,Satisfied,32,1,0
+INT-0384,2026-08-04,Agent 015,Call,Spain,Late Delivery,Resolved,658,3,Neutral,32,0,0
+INT-0415,2026-08-04,Agent 001,Call,Spain,Refund Request,Resolved,755,5,Satisfied,32,1,0
+INT-0111,2026-08-04,Agent 010,Call,Spain,Order Status,Resolved,320,4,Satisfied,32,1,0
+INT-0350,2026-08-04,Agent 014,Chat,Spain,Delivery Instructions,Resolved,461,2,Dissatisfied,32,0,1
+INT-0718,2026-08-04,Agent 004,Chat,Spain,Refund Request,Resolved,659,4,Satisfied,32,1,0
+INT-0876,2026-08-04,Agent 008,Chat,Spain,Wrong Order,Not Resolved,657,2,Dissatisfied,32,0,1
+INT-0260,2026-08-04,Agent 010,Chat,Italy,Order Status,Not Resolved,140,3,Neutral,32,0,0
+INT-0465,2026-08-04,Agent 017,Call,Spain,Promotion Issue,Resolved,489,4,Satisfied,32,1,0
+INT-0586,2026-08-04,Agent 016,Email,Italy,Payment Issue,Resolved,442,4,Satisfied,32,1,0
+INT-0585,2026-08-04,Agent 016,Call,Italy,Order Cancellation,Resolved,428,3,Neutral,32,0,0
+INT-0166,2026-08-04,Agent 011,Chat,Portugal,Late Delivery,Partially Resolved,469,2,Dissatisfied,32,0,1
+INT-0839,2026-08-04,Agent 011,Chat,Spain,Delivery Instructions,Not Resolved,424,5,Satisfied,32,1,0
+INT-0472,2026-08-04,Agent 013,Chat,Portugal,Refund Request,Resolved,695,3,Neutral,32,0,0
+INT-0852,2026-08-04,Agent 004,Call,Spain,Late Delivery,Resolved,425,4,Satisfied,32,1,0
+INT-0273,2026-08-04,Agent 007,Call,Spain,Delivery Instructions,Not Resolved,346,1,Dissatisfied,32,0,1
+INT-0972,2026-08-05,Agent 015,Chat,Spain,Payment Issue,Not Resolved,851,1,Dissatisfied,32,0,1
+INT-0921,2026-08-05,Agent 004,Email,Portugal,Order Status,Resolved,296,5,Satisfied,32,1,0
+INT-0396,2026-08-05,Agent 019,Chat,Spain,Payment Issue,Resolved,616,4,Satisfied,32,1,0
+INT-0188,2026-08-05,Agent 016,Call,Spain,Missing Items,Resolved,296,4,Satisfied,32,1,0
+INT-0740,2026-08-05,Agent 009,Chat,Spain,Wrong Order,Not Resolved,859,2,Dissatisfied,32,0,1
+INT-0934,2026-08-05,Agent 001,Call,Italy,Delivery Instructions,Resolved,476,4,Satisfied,32,1,0
+INT-0298,2026-08-05,Agent 010,Chat,Spain,Order Cancellation,Resolved,492,5,Satisfied,32,1,0
+INT-0496,2026-08-05,Agent 017,Chat,Spain,Order Cancellation,Resolved,216,4,Satisfied,32,1,0
+INT-0962,2026-08-05,Agent 013,Chat,Spain,Order Cancellation,Resolved,350,4,Satisfied,32,1,0
+INT-0454,2026-08-05,Agent 004,Call,Italy,Missing Items,Resolved,625,4,Satisfied,32,1,0
+INT-0793,2026-08-05,Agent 010,Call,Spain,Missing Items,Resolved,443,4,Satisfied,32,1,0
+INT-0413,2026-08-06,Agent 002,Email,Italy,Order Status,Resolved,311,5,Satisfied,32,1,0
+INT-0550,2026-08-06,Agent 020,Chat,Spain,Wrong Order,Resolved,435,5,Satisfied,32,1,0
+INT-0282,2026-08-06,Agent 013,Call,Italy,Refund Request,Partially Resolved,706,2,Dissatisfied,32,0,1
+INT-0281,2026-08-06,Agent 019,Chat,Portugal,Missing Items,Resolved,615,4,Satisfied,32,1,0
+INT-0070,2026-08-06,Agent 014,Chat,Spain,Refund Request,Resolved,673,4,Satisfied,32,1,0
+INT-0065,2026-08-06,Agent 010,Chat,Portugal,Missing Items,Resolved,441,3,Neutral,32,0,0
+INT-0942,2026-08-06,Agent 005,Call,Spain,Missing Items,Resolved,634,3,Neutral,32,0,0
+INT-0967,2026-08-06,Agent 004,Chat,Spain,Payment Issue,Resolved,592,4,Satisfied,32,1,0
+INT-0969,2026-08-06,Agent 013,Call,Spain,Order Status,Partially Resolved,226,5,Satisfied,32,1,0
+INT-0381,2026-08-06,Agent 018,Call,Spain,Wrong Order,Resolved,926,3,Neutral,32,0,0
+INT-0634,2026-08-06,Agent 004,Chat,Spain,Payment Issue,Resolved,878,4,Satisfied,32,1,0
+INT-0500,2026-08-06,Agent 008,Call,Spain,Order Cancellation,Partially Resolved,511,5,Satisfied,32,1,0
+INT-0528,2026-08-06,Agent 010,Call,Spain,Late Delivery,Partially Resolved,664,4,Satisfied,32,1,0
+INT-0616,2026-08-06,Agent 017,Chat,Spain,Late Delivery,Resolved,525,4,Satisfied,32,1,0
+INT-0618,2026-08-06,Agent 002,Call,Italy,Order Cancellation,Resolved,464,4,Satisfied,32,1,0
+INT-0478,2026-08-06,Agent 014,Call,Spain,Payment Issue,Resolved,447,4,Satisfied,32,1,0
+INT-0711,2026-08-07,Agent 011,Call,Spain,Late Delivery,Resolved,803,5,Satisfied,32,1,0
+INT-0842,2026-08-07,Agent 005,Chat,Spain,Late Delivery,Resolved,640,4,Satisfied,32,1,0
+INT-0211,2026-08-07,Agent 002,Chat,Italy,Wrong Order,Resolved,371,4,Satisfied,32,1,0
+INT-0833,2026-08-07,Agent 013,Call,Spain,Payment Issue,Resolved,311,5,Satisfied,32,1,0
+INT-0829,2026-08-07,Agent 006,Chat,Spain,Order Cancellation,Resolved,551,3,Neutral,32,0,0
+INT-0133,2026-08-07,Agent 019,Chat,Spain,Payment Issue,Partially Resolved,605,4,Satisfied,32,1,0
+INT-0625,2026-08-07,Agent 006,Call,Spain,Order Status,Partially Resolved,345,3,Neutral,32,0,0
+INT-0572,2026-08-07,Agent 010,Call,Italy,Account Issue,Resolved,600,4,Satisfied,32,1,0
+INT-0398,2026-08-07,Agent 002,Call,Spain,Payment Issue,Not Resolved,638,3,Neutral,32,0,0
+INT-0931,2026-08-07,Agent 009,Chat,Spain,Refund Request,Resolved,801,3,Neutral,32,0,0
+INT-0303,2026-08-07,Agent 020,Chat,Italy,Payment Issue,Resolved,647,4,Satisfied,32,1,0
+INT-0781,2026-08-07,Agent 003,Chat,Spain,Refund Request,Resolved,609,4,Satisfied,32,1,0
+INT-0624,2026-08-07,Agent 004,Chat,Portugal,Missing Items,Resolved,462,3,Neutral,32,0,0
+INT-0716,2026-08-07,Agent 005,Chat,Portugal,Order Status,Resolved,376,3,Neutral,32,0,0
+INT-0010,2026-08-07,Agent 001,Call,Spain,Missing Items,Resolved,685,5,Satisfied,32,1,0
+INT-0632,2026-08-07,Agent 014,Chat,Spain,Wrong Order,Partially Resolved,621,1,Dissatisfied,32,0,1
+INT-0014,2026-08-07,Agent 008,Chat,Spain,Missing Items,Resolved,507,4,Satisfied,32,1,0
+INT-0379,2026-08-07,Agent 002,Chat,Spain,Payment Issue,Partially Resolved,457,3,Neutral,32,0,0
+INT-0720,2026-08-07,Agent 020,Chat,Spain,Wrong Order,Resolved,731,4,Satisfied,32,1,0
+INT-0578,2026-08-07,Agent 009,Email,Spain,Missing Items,Resolved,474,4,Satisfied,32,1,0
+INT-0453,2026-08-07,Agent 001,Call,Spain,Missing Items,Resolved,640,3,Neutral,32,0,0
+INT-0788,2026-08-08,Agent 004,Chat,Spain,Missing Items,Resolved,486,5,Satisfied,32,1,0
+INT-0990,2026-08-08,Agent 020,Call,Italy,Order Status,Partially Resolved,482,4,Satisfied,32,1,0
+INT-0538,2026-08-08,Agent 014,Email,Spain,Order Cancellation,Resolved,282,3,Neutral,32,0,0
+INT-0144,2026-08-08,Agent 020,Chat,Spain,Missing Items,Resolved,466,4,Satisfied,32,1,0
+INT-0485,2026-08-08,Agent 005,Chat,Spain,Delivery Instructions,Resolved,399,5,Satisfied,32,1,0
+INT-0048,2026-08-08,Agent 015,Call,Spain,Refund Request,Resolved,678,5,Satisfied,32,1,0
+INT-0890,2026-08-08,Agent 012,Chat,Spain,Late Delivery,Resolved,445,5,Satisfied,32,1,0
+INT-0705,2026-08-08,Agent 013,Chat,Spain,Refund Request,Resolved,754,4,Satisfied,32,1,0
+INT-0083,2026-08-08,Agent 013,Chat,Spain,Late Delivery,Resolved,388,4,Satisfied,32,1,0
+INT-0444,2026-08-08,Agent 014,Chat,Italy,Wrong Order,Resolved,436,4,Satisfied,32,1,0
+INT-0364,2026-08-08,Agent 014,Chat,Portugal,Order Status,Resolved,450,5,Satisfied,32,1,0
+INT-0783,2026-08-08,Agent 004,Chat,Spain,Order Cancellation,Resolved,663,3,Neutral,32,0,0
+INT-0779,2026-08-08,Agent 009,Call,Portugal,Payment Issue,Partially Resolved,604,3,Neutral,32,0,0
+INT-0695,2026-08-08,Agent 018,Call,Portugal,Refund Request,Resolved,561,4,Satisfied,32,1,0
+INT-0675,2026-08-09,Agent 020,Chat,Spain,Payment Issue,Resolved,436,3,Neutral,32,0,0
+INT-0259,2026-08-09,Agent 013,Call,Portugal,Wrong Order,Resolved,703,4,Satisfied,32,1,0
+INT-0811,2026-08-09,Agent 003,Call,Spain,Delivery Instructions,Not Resolved,543,2,Dissatisfied,32,0,1
+INT-0191,2026-08-09,Agent 020,Chat,Spain,Payment Issue,Resolved,680,4,Satisfied,32,1,0
+INT-0775,2026-08-09,Agent 014,Chat,Spain,Order Cancellation,Resolved,527,5,Satisfied,32,1,0
+INT-0104,2026-08-09,Agent 008,Chat,Spain,Wrong Order,Resolved,728,3,Neutral,32,0,0
+INT-0079,2026-08-09,Agent 005,Chat,Spain,Wrong Order,Not Resolved,435,2,Dissatisfied,32,0,1
+INT-0909,2026-08-09,Agent 020,Chat,Spain,Refund Request,Resolved,544,5,Satisfied,32,1,0
+INT-0034,2026-08-09,Agent 016,Call,Spain,Promotion Issue,Partially Resolved,407,2,Dissatisfied,32,0,1
+INT-0141,2026-08-09,Agent 016,Chat,Spain,Order Status,Resolved,316,4,Satisfied,32,1,0
+INT-0893,2026-08-09,Agent 003,Call,Portugal,Account Issue,Not Resolved,668,4,Satisfied,32,1,0
+INT-0533,2026-08-09,Agent 010,Chat,Spain,Refund Request,Resolved,593,4,Satisfied,32,1,0
+INT-0568,2026-08-10,Agent 015,Chat,Spain,Order Status,Resolved,580,4,Satisfied,33,1,0
+INT-0297,2026-08-10,Agent 008,Chat,Portugal,Refund Request,Resolved,722,3,Neutral,33,0,0
+INT-0089,2026-08-10,Agent 002,Chat,Spain,Promotion Issue,Resolved,250,4,Satisfied,33,1,0
+INT-0419,2026-08-10,Agent 018,Chat,Spain,Refund Request,Partially Resolved,758,4,Satisfied,33,1,0
+INT-0699,2026-08-10,Agent 010,Call,Spain,Refund Request,Resolved,885,3,Neutral,33,0,0
+INT-0558,2026-08-10,Agent 011,Chat,Spain,Order Cancellation,Resolved,549,4,Satisfied,33,1,0
+INT-0984,2026-08-10,Agent 002,Call,Spain,Missing Items,Not Resolved,803,2,Dissatisfied,33,0,1
+INT-0009,2026-08-10,Agent 010,Chat,Spain,Wrong Order,Resolved,530,3,Neutral,33,0,0
+INT-0460,2026-08-10,Agent 018,Email,Spain,Order Status,Resolved,347,4,Satisfied,33,1,0
+INT-0307,2026-08-10,Agent 009,Chat,Spain,Late Delivery,Resolved,526,4,Satisfied,33,1,0
+INT-0748,2026-08-10,Agent 018,Call,Portugal,Payment Issue,Resolved,696,3,Neutral,33,0,0
+INT-0156,2026-08-10,Agent 017,Chat,Portugal,Refund Request,Resolved,688,5,Satisfied,33,1,0
+INT-0411,2026-08-10,Agent 013,Chat,Italy,Order Status,Not Resolved,349,4,Satisfied,33,1,0
+INT-0504,2026-08-10,Agent 012,Email,Spain,Wrong Order,Partially Resolved,649,4,Satisfied,33,1,0
+INT-0186,2026-08-10,Agent 019,Email,Spain,Late Delivery,Resolved,493,5,Satisfied,33,1,0
+INT-0261,2026-08-10,Agent 009,Chat,Portugal,Wrong Order,Resolved,714,4,Satisfied,33,1,0
+INT-0531,2026-08-10,Agent 005,Chat,Spain,Promotion Issue,Partially Resolved,610,4,Satisfied,33,1,0
+INT-0871,2026-08-10,Agent 004,Chat,Spain,Missing Items,Resolved,455,5,Satisfied,33,1,0
+INT-0134,2026-08-10,Agent 009,Chat,Spain,Account Issue,Partially Resolved,417,3,Neutral,33,0,0
+INT-0573,2026-08-10,Agent 007,Chat,Portugal,Order Cancellation,Resolved,493,3,Neutral,33,0,0
+INT-0530,2026-08-10,Agent 012,Call,Spain,Missing Items,Not Resolved,500,1,Dissatisfied,33,0,1
+INT-0200,2026-08-11,Agent 018,Chat,Spain,Refund Request,Not Resolved,678,3,Neutral,33,0,0
+INT-0882,2026-08-11,Agent 011,Chat,Spain,Late Delivery,Resolved,562,4,Satisfied,33,1,0
+INT-0724,2026-08-11,Agent 001,Call,Spain,Delivery Instructions,Resolved,633,5,Satisfied,33,1,0
+INT-0596,2026-08-11,Agent 004,Chat,Spain,Late Delivery,Resolved,472,4,Satisfied,33,1,0
+INT-0562,2026-08-11,Agent 003,Chat,Spain,Missing Items,Not Resolved,296,2,Dissatisfied,33,0,1
+INT-0283,2026-08-11,Agent 014,Call,Spain,Refund Request,Resolved,324,2,Dissatisfied,33,0,1
+INT-0574,2026-08-11,Agent 019,Call,Spain,Payment Issue,Partially Resolved,343,3,Neutral,33,0,0
+INT-0319,2026-08-11,Agent 008,Chat,Spain,Order Cancellation,Resolved,368,4,Satisfied,33,1,0
+INT-0061,2026-08-11,Agent 017,Call,Italy,Delivery Instructions,Partially Resolved,310,3,Neutral,33,0,0
+INT-0922,2026-08-11,Agent 019,Chat,Spain,Order Status,Resolved,199,3,Neutral,33,0,0
+INT-0604,2026-08-11,Agent 002,Chat,Spain,Payment Issue,Resolved,507,5,Satisfied,33,1,0
+INT-0182,2026-08-11,Agent 009,Chat,Spain,Refund Request,Resolved,817,5,Satisfied,33,1,0
+INT-0462,2026-08-11,Agent 001,Email,Portugal,Wrong Order,Resolved,588,4,Satisfied,33,1,0
+INT-0639,2026-08-11,Agent 010,Chat,Spain,Wrong Order,Partially Resolved,404,3,Neutral,33,0,0
+INT-0555,2026-08-12,Agent 017,Call,Spain,Payment Issue,Partially Resolved,554,3,Neutral,33,0,0
+INT-0272,2026-08-12,Agent 004,Chat,Spain,Account Issue,Not Resolved,388,2,Dissatisfied,33,0,1
+INT-0818,2026-08-12,Agent 009,Chat,Spain,Refund Request,Not Resolved,810,1,Dissatisfied,33,0,1
+INT-0420,2026-08-12,Agent 004,Chat,Spain,Late Delivery,Resolved,450,3,Neutral,33,0,0
+INT-0645,2026-08-12,Agent 010,Chat,Spain,Order Status,Resolved,436,5,Satisfied,33,1,0
+INT-0423,2026-08-12,Agent 015,Email,Spain,Order Status,Partially Resolved,306,4,Satisfied,33,1,0
+INT-0738,2026-08-12,Agent 004,Chat,Spain,Wrong Order,Resolved,575,4,Satisfied,33,1,0
+INT-0179,2026-08-12,Agent 011,Chat,Italy,Delivery Instructions,Partially Resolved,572,4,Satisfied,33,1,0
+INT-0725,2026-08-12,Agent 017,Chat,Spain,Late Delivery,Resolved,552,4,Satisfied,33,1,0
+INT-0805,2026-08-12,Agent 008,Call,Spain,Account Issue,Resolved,334,2,Dissatisfied,33,0,1
+INT-0254,2026-08-12,Agent 007,Chat,Spain,Late Delivery,Resolved,451,4,Satisfied,33,1,0
+INT-0511,2026-08-12,Agent 006,Call,Spain,Promotion Issue,Not Resolved,500,2,Dissatisfied,33,0,1
+INT-0848,2026-08-12,Agent 005,Chat,Portugal,Payment Issue,Not Resolved,564,3,Neutral,33,0,0
+INT-0633,2026-08-13,Agent 017,Chat,Spain,Order Cancellation,Resolved,490,3,Neutral,33,0,0
+INT-0664,2026-08-13,Agent 002,Call,Portugal,Refund Request,Resolved,733,4,Satisfied,33,1,0
+INT-0074,2026-08-13,Agent 018,Chat,Spain,Order Status,Resolved,195,3,Neutral,33,0,0
+INT-0658,2026-08-13,Agent 013,Chat,Spain,Refund Request,Resolved,781,4,Satisfied,33,1,0
+INT-0832,2026-08-13,Agent 015,Chat,Spain,Order Cancellation,Resolved,861,4,Satisfied,33,1,0
+INT-0914,2026-08-13,Agent 019,Chat,Portugal,Wrong Order,Resolved,804,2,Dissatisfied,33,0,1
+INT-0758,2026-08-13,Agent 001,Call,Portugal,Missing Items,Resolved,532,3,Neutral,33,0,0
+INT-0930,2026-08-13,Agent 003,Chat,Portugal,Late Delivery,Resolved,552,3,Neutral,33,0,0
+INT-0977,2026-08-13,Agent 006,Call,Spain,Payment Issue,Not Resolved,509,2,Dissatisfied,33,0,1
+INT-0123,2026-08-13,Agent 018,Call,Portugal,Missing Items,Resolved,830,4,Satisfied,33,1,0
+INT-0155,2026-08-13,Agent 005,Call,Spain,Missing Items,Resolved,614,3,Neutral,33,0,0
+INT-0314,2026-08-14,Agent 003,Call,Italy,Payment Issue,Resolved,792,4,Satisfied,33,1,0
+INT-0928,2026-08-14,Agent 011,Call,Spain,Wrong Order,Resolved,678,4,Satisfied,33,1,0
+INT-0265,2026-08-14,Agent 018,Email,Italy,Order Cancellation,Resolved,502,4,Satisfied,33,1,0
+INT-0600,2026-08-14,Agent 013,Chat,Spain,Order Status,Resolved,332,4,Satisfied,33,1,0
+INT-0203,2026-08-14,Agent 009,Chat,Italy,Payment Issue,Resolved,774,4,Satisfied,33,1,0
+INT-0502,2026-08-14,Agent 012,Chat,Spain,Wrong Order,Partially Resolved,846,4,Satisfied,33,1,0
+INT-0619,2026-08-14,Agent 005,Email,Spain,Missing Items,Resolved,549,5,Satisfied,33,1,0
+INT-0146,2026-08-14,Agent 008,Chat,Portugal,Promotion Issue,Resolved,395,5,Satisfied,33,1,0
+INT-0441,2026-08-14,Agent 013,Call,Spain,Promotion Issue,Resolved,503,3,Neutral,33,0,0
+INT-0655,2026-08-14,Agent 010,Email,Spain,Order Status,Resolved,428,4,Satisfied,33,1,0
+INT-0033,2026-08-14,Agent 003,Chat,Spain,Account Issue,Resolved,434,3,Neutral,33,0,0
+INT-0212,2026-08-14,Agent 013,Call,Portugal,Wrong Order,Resolved,557,4,Satisfied,33,1,0
+INT-0227,2026-08-15,Agent 004,Chat,Portugal,Promotion Issue,Resolved,295,3,Neutral,33,0,0
+INT-0027,2026-08-15,Agent 015,Call,Spain,Refund Request,Resolved,639,4,Satisfied,33,1,0
+INT-0304,2026-08-15,Agent 017,Chat,Italy,Wrong Order,Partially Resolved,480,3,Neutral,33,0,0
+INT-0043,2026-08-15,Agent 003,Call,Spain,Promotion Issue,Resolved,550,4,Satisfied,33,1,0
+INT-0736,2026-08-15,Agent 011,Call,Italy,Order Status,Partially Resolved,496,3,Neutral,33,0,0
+INT-0743,2026-08-15,Agent 004,Chat,Spain,Account Issue,Resolved,390,4,Satisfied,33,1,0
+INT-0045,2026-08-15,Agent 007,Chat,Spain,Wrong Order,Resolved,816,5,Satisfied,33,1,0
+INT-0306,2026-08-15,Agent 016,Chat,Spain,Late Delivery,Resolved,410,4,Satisfied,33,1,0
+INT-0611,2026-08-15,Agent 001,Chat,Spain,Missing Items,Not Resolved,590,3,Neutral,33,0,0
+INT-0451,2026-08-15,Agent 008,Email,Spain,Missing Items,Resolved,328,5,Satisfied,33,1,0
+INT-0857,2026-08-15,Agent 005,Email,Spain,Order Status,Not Resolved,307,3,Neutral,33,0,0
+INT-0897,2026-08-15,Agent 018,Chat,Spain,Missing Items,Resolved,607,4,Satisfied,33,1,0
+INT-0178,2026-08-16,Agent 003,Chat,Spain,Delivery Instructions,Not Resolved,410,1,Dissatisfied,33,0,1
+INT-0670,2026-08-16,Agent 006,Chat,Spain,Delivery Instructions,Resolved,424,4,Satisfied,33,1,0
+INT-0678,2026-08-16,Agent 006,Chat,Spain,Wrong Order,Resolved,481,2,Dissatisfied,33,0,1
+INT-0672,2026-08-16,Agent 014,Chat,Spain,Account Issue,Not Resolved,121,5,Satisfied,33,1,0
+INT-0257,2026-08-16,Agent 009,Call,Spain,Order Status,Resolved,333,4,Satisfied,33,1,0
+INT-0028,2026-08-16,Agent 004,Chat,Spain,Account Issue,Partially Resolved,579,3,Neutral,33,0,0
+INT-0225,2026-08-16,Agent 006,Call,Spain,Promotion Issue,Resolved,482,4,Satisfied,33,1,0
+INT-0680,2026-08-16,Agent 006,Chat,Italy,Missing Items,Resolved,462,4,Satisfied,33,1,0
+INT-0722,2026-08-16,Agent 019,Email,Spain,Order Status,Partially Resolved,255,3,Neutral,33,0,0
+INT-0355,2026-08-16,Agent 017,Call,Spain,Account Issue,Resolved,538,5,Satisfied,33,1,0
+INT-0866,2026-08-16,Agent 004,Chat,Portugal,Order Status,Resolved,341,4,Satisfied,33,1,0
+INT-0131,2026-08-16,Agent 013,Chat,Spain,Order Status,Resolved,321,3,Neutral,33,0,0
+INT-0081,2026-08-16,Agent 011,Call,Spain,Delivery Instructions,Resolved,473,3,Neutral,33,0,0
+INT-0749,2026-08-16,Agent 004,Chat,Portugal,Late Delivery,Resolved,505,4,Satisfied,33,1,0
+INT-0660,2026-08-16,Agent 007,Chat,Spain,Order Status,Not Resolved,260,3,Neutral,33,0,0
+INT-0151,2026-08-16,Agent 006,Chat,Spain,Refund Request,Not Resolved,293,1,Dissatisfied,33,0,1
+INT-0421,2026-08-16,Agent 012,Email,Spain,Refund Request,Not Resolved,439,1,Dissatisfied,33,0,1
+INT-0786,2026-08-16,Agent 001,Call,Italy,Late Delivery,Resolved,608,3,Neutral,33,0,0
+INT-0324,2026-08-16,Agent 013,Chat,Spain,Late Delivery,Resolved,518,5,Satisfied,33,1,0
+INT-0807,2026-08-17,Agent 002,Chat,Spain,Payment Issue,Resolved,441,4,Satisfied,34,1,0
+INT-0209,2026-08-17,Agent 004,Chat,Spain,Wrong Order,Resolved,663,4,Satisfied,34,1,0
+INT-0046,2026-08-17,Agent 007,Chat,Spain,Missing Items,Not Resolved,689,4,Satisfied,34,1,0
+INT-0404,2026-08-17,Agent 005,Call,Spain,Order Status,Resolved,461,5,Satisfied,34,1,0
+INT-0949,2026-08-17,Agent 002,Call,Italy,Promotion Issue,Resolved,654,5,Satisfied,34,1,0
+INT-0966,2026-08-17,Agent 004,Chat,Spain,Late Delivery,Resolved,593,4,Satisfied,34,1,0
+INT-0824,2026-08-17,Agent 017,Chat,Spain,Missing Items,Partially Resolved,495,3,Neutral,34,0,0
+INT-0035,2026-08-17,Agent 013,Call,Portugal,Order Status,Resolved,346,4,Satisfied,34,1,0
+INT-0288,2026-08-17,Agent 017,Chat,Spain,Order Status,Resolved,501,5,Satisfied,34,1,0
+INT-0015,2026-08-17,Agent 020,Email,Portugal,Order Status,Resolved,335,4,Satisfied,34,1,0
+INT-0851,2026-08-17,Agent 012,Email,Portugal,Missing Items,Resolved,411,4,Satisfied,34,1,0
+INT-0717,2026-08-17,Agent 003,Email,Portugal,Order Status,Resolved,386,4,Satisfied,34,1,0
+INT-0120,2026-08-17,Agent 018,Call,Spain,Order Status,Resolved,439,4,Satisfied,34,1,0
+INT-0992,2026-08-17,Agent 016,Chat,Portugal,Order Status,Not Resolved,372,2,Dissatisfied,34,0,1
+INT-0126,2026-08-17,Agent 003,Chat,Spain,Account Issue,Resolved,503,4,Satisfied,34,1,0
+INT-0985,2026-08-17,Agent 016,Chat,Portugal,Missing Items,Resolved,587,4,Satisfied,34,1,0
+INT-0968,2026-08-17,Agent 012,Call,Spain,Promotion Issue,Resolved,408,4,Satisfied,34,1,0
+INT-0329,2026-08-17,Agent 008,Email,Spain,Account Issue,Resolved,279,4,Satisfied,34,1,0
+INT-0309,2026-08-17,Agent 008,Chat,Spain,Wrong Order,Resolved,579,4,Satisfied,34,1,0
+INT-0545,2026-08-17,Agent 016,Chat,Spain,Wrong Order,Resolved,466,4,Satisfied,34,1,0
+INT-0174,2026-08-17,Agent 013,Chat,Spain,Missing Items,Resolved,518,4,Satisfied,34,1,0
+INT-0554,2026-08-17,Agent 015,Chat,Spain,Payment Issue,Resolved,649,4,Satisfied,34,1,0
+INT-0185,2026-08-17,Agent 016,Call,Spain,Order Status,Resolved,423,4,Satisfied,34,1,0
+INT-0772,2026-08-17,Agent 004,Chat,Spain,Missing Items,Resolved,392,4,Satisfied,34,1,0
+INT-0671,2026-08-17,Agent 009,Chat,Spain,Order Status,Resolved,321,5,Satisfied,34,1,0
+INT-0979,2026-08-18,Agent 011,Chat,Spain,Account Issue,Not Resolved,597,3,Neutral,34,0,0
+INT-0395,2026-08-18,Agent 003,Chat,Spain,Delivery Instructions,Resolved,442,5,Satisfied,34,1,0
+INT-0971,2026-08-18,Agent 002,Email,Spain,Missing Items,Resolved,259,3,Neutral,34,0,0
+INT-0018,2026-08-18,Agent 001,Call,Spain,Delivery Instructions,Resolved,464,4,Satisfied,34,1,0
+INT-0217,2026-08-18,Agent 010,Call,Spain,Account Issue,Resolved,562,5,Satisfied,34,1,0
+INT-0417,2026-08-18,Agent 010,Chat,Spain,Delivery Instructions,Partially Resolved,594,4,Satisfied,34,1,0
+INT-0293,2026-08-18,Agent 011,Chat,Spain,Promotion Issue,Not Resolved,448,2,Dissatisfied,34,0,1
+INT-0095,2026-08-18,Agent 009,Call,Spain,Payment Issue,Not Resolved,796,2,Dissatisfied,34,0,1
+INT-0433,2026-08-18,Agent 005,Chat,Italy,Missing Items,Resolved,418,3,Neutral,34,0,0
+INT-0608,2026-08-18,Agent 003,Call,Italy,Refund Request,Resolved,726,5,Satisfied,34,1,0
+INT-0002,2026-08-18,Agent 013,Chat,Portugal,Late Delivery,Resolved,393,5,Satisfied,34,1,0
+INT-0750,2026-08-18,Agent 003,Chat,Portugal,Promotion Issue,Resolved,211,3,Neutral,34,0,0
+INT-0229,2026-08-18,Agent 016,Chat,Portugal,Promotion Issue,Resolved,532,4,Satisfied,34,1,0
+INT-0661,2026-08-19,Agent 018,Call,Italy,Late Delivery,Resolved,577,4,Satisfied,34,1,0
+INT-0085,2026-08-19,Agent 013,Chat,Spain,Order Status,Resolved,279,3,Neutral,34,0,0
+INT-0569,2026-08-19,Agent 004,Chat,Spain,Late Delivery,Resolved,440,2,Dissatisfied,34,0,1
+INT-0588,2026-08-19,Agent 001,Call,Spain,Late Delivery,Resolved,553,3,Neutral,34,0,0
+INT-0493,2026-08-19,Agent 012,Chat,Spain,Refund Request,Resolved,352,3,Neutral,34,0,0
+INT-0692,2026-08-19,Agent 005,Call,Spain,Refund Request,Resolved,603,5,Satisfied,34,1,0
+INT-0707,2026-08-19,Agent 004,Email,Spain,Late Delivery,Resolved,401,4,Satisfied,34,1,0
+INT-0495,2026-08-19,Agent 005,Call,Spain,Missing Items,Resolved,410,5,Satisfied,34,1,0
+INT-0702,2026-08-19,Agent 014,Chat,Spain,Promotion Issue,Resolved,535,4,Satisfied,34,1,0
+INT-0349,2026-08-19,Agent 013,Call,Spain,Order Cancellation,Resolved,686,3,Neutral,34,0,0
+INT-0629,2026-08-19,Agent 019,Chat,Portugal,Refund Request,Resolved,475,5,Satisfied,34,1,0
+INT-0991,2026-08-19,Agent 002,Call,Spain,Refund Request,Resolved,630,3,Neutral,34,0,0
+INT-0021,2026-08-20,Agent 006,Chat,Spain,Wrong Order,Resolved,629,2,Dissatisfied,34,0,1
+INT-0980,2026-08-20,Agent 020,Chat,Spain,Refund Request,Partially Resolved,724,4,Satisfied,34,1,0
+INT-0785,2026-08-20,Agent 011,Chat,Spain,Account Issue,Resolved,530,5,Satisfied,34,1,0
+INT-0490,2026-08-20,Agent 012,Call,Spain,Missing Items,Partially Resolved,558,2,Dissatisfied,34,0,1
+INT-0771,2026-08-20,Agent 014,Email,Spain,Late Delivery,Resolved,550,5,Satisfied,34,1,0
+INT-0821,2026-08-20,Agent 018,Chat,Portugal,Promotion Issue,Resolved,279,3,Neutral,34,0,0
+INT-0204,2026-08-20,Agent 005,Chat,Spain,Delivery Instructions,Resolved,479,5,Satisfied,34,1,0
+INT-0996,2026-08-20,Agent 007,Chat,Spain,Order Status,Not Resolved,333,1,Dissatisfied,34,0,1
+INT-0474,2026-08-20,Agent 006,Chat,Spain,Refund Request,Resolved,484,4,Satisfied,34,1,0
+INT-0300,2026-08-21,Agent 011,Email,Spain,Missing Items,Resolved,631,4,Satisfied,34,1,0
+INT-0552,2026-08-21,Agent 019,Email,Spain,Wrong Order,Not Resolved,559,1,Dissatisfied,34,0,1
+INT-0042,2026-08-21,Agent 017,Call,Italy,Order Status,Not Resolved,440,1,Dissatisfied,34,0,1
+INT-0078,2026-08-21,Agent 016,Chat,Spain,Promotion Issue,Resolved,607,5,Satisfied,34,1,0
+INT-0374,2026-08-21,Agent 018,Chat,Spain,Payment Issue,Resolved,925,5,Satisfied,34,1,0
+INT-0752,2026-08-21,Agent 002,Call,Spain,Missing Items,Resolved,454,4,Satisfied,34,1,0
+INT-0747,2026-08-21,Agent 008,Call,Spain,Refund Request,Resolved,608,4,Satisfied,34,1,0
+INT-0945,2026-08-21,Agent 017,Chat,Spain,Late Delivery,Partially Resolved,363,3,Neutral,34,0,0
+INT-0031,2026-08-21,Agent 003,Chat,Spain,Order Cancellation,Resolved,439,3,Neutral,34,0,0
+INT-0995,2026-08-21,Agent 020,Email,Spain,Order Status,Resolved,297,4,Satisfied,34,1,0
+INT-0140,2026-08-21,Agent 019,Call,Spain,Promotion Issue,Resolved,138,4,Satisfied,34,1,0
+INT-0407,2026-08-21,Agent 003,Chat,Spain,Payment Issue,Resolved,674,4,Satisfied,34,1,0
+INT-0650,2026-08-21,Agent 010,Call,Spain,Payment Issue,Partially Resolved,727,4,Satisfied,34,1,0
+INT-0885,2026-08-21,Agent 014,Chat,Portugal,Late Delivery,Resolved,365,5,Satisfied,34,1,0
+INT-0560,2026-08-21,Agent 004,Chat,Italy,Order Status,Resolved,413,3,Neutral,34,0,0
+INT-0989,2026-08-22,Agent 020,Chat,Spain,Delivery Instructions,Resolved,471,5,Satisfied,34,1,0
+INT-0080,2026-08-22,Agent 017,Call,Spain,Wrong Order,Resolved,262,2,Dissatisfied,34,0,1
+INT-0318,2026-08-22,Agent 007,Email,Spain,Order Status,Partially Resolved,172,3,Neutral,34,0,0
+INT-0761,2026-08-22,Agent 003,Chat,Italy,Payment Issue,Resolved,497,3,Neutral,34,0,0
+INT-0344,2026-08-22,Agent 019,Chat,Spain,Wrong Order,Resolved,729,3,Neutral,34,0,0
+INT-0356,2026-08-22,Agent 002,Call,Italy,Order Status,Partially Resolved,493,3,Neutral,34,0,0
+INT-0426,2026-08-22,Agent 020,Chat,Spain,Order Cancellation,Resolved,317,3,Neutral,34,0,0
+INT-0875,2026-08-22,Agent 014,Chat,Spain,Missing Items,Resolved,323,4,Satisfied,34,1,0
+INT-0169,2026-08-22,Agent 003,Chat,Spain,Order Status,Resolved,452,5,Satisfied,34,1,0
+INT-0547,2026-08-22,Agent 008,Chat,Spain,Refund Request,Resolved,737,4,Satisfied,34,1,0
+INT-0819,2026-08-22,Agent 005,Chat,Spain,Delivery Instructions,Partially Resolved,132,3,Neutral,34,0,0
+INT-0567,2026-08-22,Agent 007,Email,Spain,Promotion Issue,Resolved,321,5,Satisfied,34,1,0
+INT-0965,2026-08-22,Agent 008,Chat,Italy,Order Cancellation,Resolved,437,3,Neutral,34,0,0
+INT-0289,2026-08-22,Agent 009,Call,Spain,Order Cancellation,Resolved,511,3,Neutral,34,0,0
+INT-0455,2026-08-22,Agent 009,Email,Spain,Missing Items,Resolved,361,5,Satisfied,34,1,0
+INT-0831,2026-08-22,Agent 012,Chat,Spain,Late Delivery,Resolved,499,5,Satisfied,34,1,0
+INT-0791,2026-08-22,Agent 007,Chat,Spain,Late Delivery,Resolved,560,3,Neutral,34,0,0
+INT-0055,2026-08-22,Agent 020,Chat,Spain,Late Delivery,Not Resolved,501,3,Neutral,34,0,0
+INT-0836,2026-08-22,Agent 012,Chat,Spain,Refund Request,Resolved,670,5,Satisfied,34,1,0
+INT-0469,2026-08-23,Agent 020,Chat,Spain,Wrong Order,Resolved,485,4,Satisfied,34,1,0
+INT-0729,2026-08-23,Agent 005,Chat,Portugal,Refund Request,Resolved,879,4,Satisfied,34,1,0
+INT-0471,2026-08-23,Agent 003,Call,Spain,Order Cancellation,Resolved,653,3,Neutral,34,0,0
+INT-0815,2026-08-23,Agent 016,Email,Italy,Delivery Instructions,Resolved,357,4,Satisfied,34,1,0
+INT-0094,2026-08-23,Agent 004,Call,Spain,Refund Request,Resolved,656,4,Satisfied,34,1,0
+INT-0657,2026-08-23,Agent 007,Call,Spain,Delivery Instructions,Resolved,279,5,Satisfied,34,1,0
+INT-0011,2026-08-23,Agent 006,Chat,Spain,Refund Request,Resolved,422,3,Neutral,34,0,0
+INT-0107,2026-08-23,Agent 014,Chat,Spain,Late Delivery,Resolved,641,3,Neutral,34,0,0
+INT-0532,2026-08-23,Agent 018,Chat,Spain,Late Delivery,Resolved,739,4,Satisfied,34,1,0
+INT-0529,2026-08-23,Agent 020,Call,Spain,Order Cancellation,Partially Resolved,515,3,Neutral,34,0,0
+INT-0790,2026-08-23,Agent 004,Chat,Spain,Order Status,Resolved,262,4,Satisfied,34,1,0
+INT-0153,2026-08-23,Agent 011,Chat,Spain,Delivery Instructions,Partially Resolved,516,2,Dissatisfied,34,0,1
+INT-0612,2026-08-24,Agent 016,Chat,Spain,Order Cancellation,Resolved,438,4,Satisfied,35,1,0
+INT-0484,2026-08-24,Agent 011,Call,Spain,Account Issue,Resolved,390,4,Satisfied,35,1,0
+INT-0820,2026-08-24,Agent 002,Chat,Italy,Refund Request,Resolved,710,2,Dissatisfied,35,0,1
+INT-0357,2026-08-24,Agent 003,Chat,Spain,Account Issue,Resolved,419,4,Satisfied,35,1,0
+INT-0294,2026-08-24,Agent 011,Email,Portugal,Wrong Order,Not Resolved,486,2,Dissatisfied,35,0,1
+INT-0592,2026-08-24,Agent 020,Chat,Spain,Refund Request,Resolved,595,5,Satisfied,35,1,0
+INT-0741,2026-08-24,Agent 002,Chat,Spain,Order Status,Resolved,456,4,Satisfied,35,1,0
+INT-0401,2026-08-24,Agent 020,Email,Italy,Wrong Order,Resolved,524,5,Satisfied,35,1,0
+INT-0952,2026-08-24,Agent 007,Call,Spain,Order Cancellation,Resolved,640,5,Satisfied,35,1,0
+INT-0521,2026-08-24,Agent 008,Chat,Spain,Payment Issue,Resolved,601,4,Satisfied,35,1,0
+INT-0138,2026-08-24,Agent 001,Chat,Spain,Promotion Issue,Resolved,516,4,Satisfied,35,1,0
+INT-0335,2026-08-24,Agent 010,Chat,Spain,Late Delivery,Resolved,445,3,Neutral,35,0,0
+INT-0007,2026-08-25,Agent 006,Chat,Spain,Missing Items,Partially Resolved,433,3,Neutral,35,0,0
+INT-0823,2026-08-25,Agent 009,Chat,Spain,Delivery Instructions,Resolved,470,4,Satisfied,35,1,0
+INT-0614,2026-08-25,Agent 012,Chat,Spain,Late Delivery,Resolved,908,3,Neutral,35,0,0
+INT-0432,2026-08-25,Agent 008,Call,Italy,Missing Items,Resolved,592,4,Satisfied,35,1,0
+INT-0744,2026-08-25,Agent 006,Chat,Spain,Wrong Order,Resolved,541,4,Satisfied,35,1,0
+INT-0315,2026-08-25,Agent 003,Call,Italy,Wrong Order,Not Resolved,758,3,Neutral,35,0,0
+INT-0774,2026-08-25,Agent 004,Chat,Italy,Order Cancellation,Resolved,482,5,Satisfied,35,1,0
+INT-0013,2026-08-25,Agent 011,Chat,Spain,Order Status,Resolved,252,4,Satisfied,35,1,0
+INT-0476,2026-08-25,Agent 001,Call,Spain,Order Cancellation,Resolved,526,2,Dissatisfied,35,0,1
+INT-0951,2026-08-25,Agent 010,Call,Spain,Refund Request,Resolved,454,3,Neutral,35,0,0
+INT-0005,2026-08-26,Agent 008,Call,Spain,Order Status,Not Resolved,634,2,Dissatisfied,35,0,1
+INT-0067,2026-08-26,Agent 010,Email,Spain,Delivery Instructions,Resolved,400,5,Satisfied,35,1,0
+INT-0443,2026-08-26,Agent 007,Call,Spain,Order Status,Resolved,434,5,Satisfied,35,1,0
+INT-0631,2026-08-26,Agent 010,Chat,Spain,Order Status,Not Resolved,362,1,Dissatisfied,35,0,1
+INT-0920,2026-08-26,Agent 006,Call,Spain,Wrong Order,Not Resolved,815,2,Dissatisfied,35,0,1
+INT-0187,2026-08-26,Agent 012,Chat,Spain,Account Issue,Resolved,412,5,Satisfied,35,1,0
+INT-0180,2026-08-26,Agent 017,Chat,Spain,Order Status,Not Resolved,425,3,Neutral,35,0,0
+INT-0515,2026-08-26,Agent 013,Call,Spain,Late Delivery,Partially Resolved,625,3,Neutral,35,0,0
+INT-0308,2026-08-26,Agent 009,Chat,Spain,Payment Issue,Resolved,599,4,Satisfied,35,1,0
+INT-0499,2026-08-26,Agent 013,Email,Spain,Missing Items,Not Resolved,596,2,Dissatisfied,35,0,1
+INT-0597,2026-08-26,Agent 016,Call,Spain,Refund Request,Resolved,281,5,Satisfied,35,1,0
+INT-0399,2026-08-26,Agent 004,Chat,Spain,Order Status,Partially Resolved,451,4,Satisfied,35,1,0
+INT-0290,2026-08-26,Agent 006,Email,Portugal,Late Delivery,Resolved,448,4,Satisfied,35,1,0
+INT-0691,2026-08-26,Agent 013,Chat,Spain,Delivery Instructions,Resolved,317,5,Satisfied,35,1,0
+INT-0513,2026-08-26,Agent 013,Call,Spain,Refund Request,Resolved,476,4,Satisfied,35,1,0
+INT-0901,2026-08-26,Agent 016,Email,Italy,Delivery Instructions,Resolved,243,5,Satisfied,35,1,0
+INT-0777,2026-08-26,Agent 014,Call,Spain,Order Status,Not Resolved,343,4,Satisfied,35,1,0
+INT-0295,2026-08-26,Agent 020,Chat,Spain,Wrong Order,Resolved,199,3,Neutral,35,0,0
+INT-0270,2026-08-27,Agent 012,Call,Spain,Order Status,Resolved,382,5,Satisfied,35,1,0
+INT-0522,2026-08-27,Agent 012,Chat,Spain,Refund Request,Partially Resolved,535,4,Satisfied,35,1,0
+INT-0579,2026-08-27,Agent 010,Chat,Spain,Order Status,Resolved,327,4,Satisfied,35,1,0
+INT-0121,2026-08-27,Agent 018,Chat,Italy,Missing Items,Resolved,371,5,Satisfied,35,1,0
+INT-0190,2026-08-27,Agent 012,Email,Portugal,Order Cancellation,Partially Resolved,246,2,Dissatisfied,35,0,1
+INT-0201,2026-08-27,Agent 016,Email,Spain,Late Delivery,Not Resolved,467,2,Dissatisfied,35,0,1
+INT-0425,2026-08-27,Agent 017,Chat,Spain,Order Status,Resolved,380,4,Satisfied,35,1,0
+INT-0674,2026-08-27,Agent 004,Chat,Spain,Order Status,Partially Resolved,201,3,Neutral,35,0,0
+INT-0371,2026-08-27,Agent 017,Chat,Spain,Delivery Instructions,Resolved,483,4,Satisfied,35,1,0
+INT-0205,2026-08-27,Agent 002,Email,Spain,Account Issue,Resolved,451,4,Satisfied,35,1,0
+INT-0052,2026-08-27,Agent 016,Chat,Spain,Order Status,Resolved,492,5,Satisfied,35,1,0
+INT-0301,2026-08-28,Agent 003,Chat,Spain,Delivery Instructions,Resolved,487,4,Satisfied,35,1,0
+INT-0541,2026-08-28,Agent 012,Call,Spain,Order Status,Not Resolved,418,3,Neutral,35,0,0
+INT-0679,2026-08-28,Agent 018,Email,Spain,Refund Request,Resolved,643,5,Satisfied,35,1,0
+INT-0481,2026-08-28,Agent 019,Chat,Spain,Account Issue,Resolved,482,4,Satisfied,35,1,0
+INT-0703,2026-08-28,Agent 005,Call,Portugal,Refund Request,Not Resolved,365,1,Dissatisfied,35,0,1
+INT-0903,2026-08-28,Agent 018,Chat,Spain,Wrong Order,Resolved,590,4,Satisfied,35,1,0
+INT-0553,2026-08-28,Agent 013,Call,Spain,Order Status,Resolved,390,5,Satisfied,35,1,0
+INT-0710,2026-08-28,Agent 001,Chat,Spain,Delivery Instructions,Partially Resolved,371,3,Neutral,35,0,0
+INT-0734,2026-08-28,Agent 001,Chat,Spain,Order Status,Resolved,265,5,Satisfied,35,1,0
+INT-0353,2026-08-28,Agent 003,Chat,Spain,Refund Request,Resolved,530,5,Satisfied,35,1,0
+INT-0006,2026-08-28,Agent 009,Chat,Portugal,Refund Request,Resolved,489,4,Satisfied,35,1,0
+INT-0149,2026-08-28,Agent 018,Chat,Spain,Delivery Instructions,Resolved,297,4,Satisfied,35,1,0
+INT-0888,2026-08-28,Agent 010,Email,Spain,Payment Issue,Resolved,522,5,Satisfied,35,1,0
+INT-0894,2026-08-28,Agent 010,Call,Spain,Late Delivery,Not Resolved,477,3,Neutral,35,0,0
+INT-0654,2026-08-28,Agent 018,Email,Spain,Account Issue,Resolved,368,3,Neutral,35,0,0
+INT-0440,2026-08-28,Agent 020,Chat,Spain,Wrong Order,Resolved,461,4,Satisfied,35,1,0
+INT-0627,2026-08-28,Agent 001,Chat,Spain,Missing Items,Partially Resolved,524,3,Neutral,35,0,0
+INT-0291,2026-08-29,Agent 011,Email,Spain,Delivery Instructions,Resolved,567,4,Satisfied,35,1,0
+INT-0330,2026-08-29,Agent 002,Call,Spain,Order Status,Not Resolved,221,3,Neutral,35,0,0
+INT-0262,2026-08-29,Agent 004,Chat,Spain,Missing Items,Resolved,477,3,Neutral,35,0,0
+INT-0709,2026-08-29,Agent 010,Chat,Spain,Missing Items,Resolved,364,4,Satisfied,35,1,0
+INT-0850,2026-08-29,Agent 010,Chat,Spain,Delivery Instructions,Resolved,491,5,Satisfied,35,1,0
+INT-0527,2026-08-29,Agent 020,Chat,Portugal,Missing Items,Partially Resolved,405,3,Neutral,35,0,0
+INT-0715,2026-08-29,Agent 016,Chat,Spain,Delivery Instructions,Resolved,440,4,Satisfied,35,1,0
+INT-0359,2026-08-29,Agent 019,Chat,Italy,Order Cancellation,Not Resolved,481,2,Dissatisfied,35,0,1
+INT-0090,2026-08-29,Agent 001,Email,Spain,Late Delivery,Resolved,505,2,Dissatisfied,35,0,1
+INT-0168,2026-08-29,Agent 003,Chat,Spain,Wrong Order,Resolved,284,4,Satisfied,35,1,0
+INT-0077,2026-08-29,Agent 012,Chat,Portugal,Order Cancellation,Partially Resolved,397,4,Satisfied,35,1,0
+INT-0071,2026-08-29,Agent 011,Chat,Portugal,Late Delivery,Resolved,357,5,Satisfied,35,1,0
+INT-0830,2026-08-29,Agent 016,Call,Italy,Wrong Order,Resolved,524,1,Dissatisfied,35,0,1
+INT-0976,2026-08-29,Agent 002,Chat,Spain,Wrong Order,Resolved,521,5,Satisfied,35,1,0
+INT-0351,2026-08-29,Agent 012,Chat,Spain,Delivery Instructions,Partially Resolved,275,4,Satisfied,35,1,0
+INT-0642,2026-08-29,Agent 016,Call,Portugal,Refund Request,Resolved,557,4,Satisfied,35,1,0
+INT-0764,2026-08-29,Agent 004,Call,Spain,Refund Request,Resolved,852,4,Satisfied,35,1,0
+INT-0194,2026-08-29,Agent 011,Chat,Spain,Delivery Instructions,Resolved,261,5,Satisfied,35,1,0
+INT-0565,2026-08-29,Agent 014,Chat,Spain,Order Status,Resolved,291,4,Satisfied,35,1,0
+INT-0731,2026-08-30,Agent 010,Call,Spain,Wrong Order,Resolved,626,2,Dissatisfied,35,0,1
+INT-0602,2026-08-30,Agent 017,Chat,Spain,Order Status,Resolved,670,4,Satisfied,35,1,0
+INT-0458,2026-08-30,Agent 014,Call,Spain,Late Delivery,Resolved,830,4,Satisfied,35,1,0
+INT-0997,2026-08-30,Agent 018,Chat,Spain,Order Status,Resolved,529,3,Neutral,35,0,0
+INT-0603,2026-08-30,Agent 004,Call,Portugal,Wrong Order,Partially Resolved,635,3,Neutral,35,0,0
+INT-0098,2026-08-30,Agent 006,Chat,Italy,Payment Issue,Partially Resolved,340,2,Dissatisfied,35,0,1
+INT-0685,2026-08-30,Agent 009,Call,Portugal,Delivery Instructions,Resolved,546,4,Satisfied,35,1,0
+INT-0571,2026-08-30,Agent 004,Chat,Spain,Refund Request,Partially Resolved,742,2,Dissatisfied,35,0,1
+INT-0117,2026-08-30,Agent 017,Chat,Spain,Refund Request,Resolved,426,4,Satisfied,35,1,0
+INT-0456,2026-08-30,Agent 016,Chat,Spain,Order Status,Resolved,258,5,Satisfied,35,1,0
+INT-0652,2026-08-30,Agent 015,Call,Spain,Account Issue,Resolved,478,5,Satisfied,35,1,0
+INT-0667,2026-08-30,Agent 009,Chat,Spain,Payment Issue,Partially Resolved,546,3,Neutral,35,0,0
+INT-0694,2026-08-31,Agent 006,Chat,Spain,Late Delivery,Resolved,700,2,Dissatisfied,36,0,1
+INT-0907,2026-08-31,Agent 007,Email,Spain,Order Status,Resolved,255,5,Satisfied,36,1,0
+INT-0916,2026-08-31,Agent 015,Chat,Spain,Refund Request,Resolved,850,3,Neutral,36,0,0
+INT-0124,2026-08-31,Agent 008,Chat,Spain,Order Status,Resolved,525,5,Satisfied,36,1,0
+INT-0877,2026-08-31,Agent 009,Email,Spain,Wrong Order,Resolved,526,5,Satisfied,36,1,0
+INT-0358,2026-08-31,Agent 005,Call,Spain,Refund Request,Resolved,685,3,Neutral,36,0,0
+INT-0564,2026-08-31,Agent 011,Chat,Spain,Order Status,Not Resolved,388,3,Neutral,36,0,0
+INT-0199,2026-08-31,Agent 002,Email,Italy,Order Cancellation,Resolved,365,4,Satisfied,36,1,0
+INT-0696,2026-08-31,Agent 012,Chat,Portugal,Wrong Order,Partially Resolved,614,2,Dissatisfied,36,0,1
+INT-0947,2026-08-31,Agent 018,Chat,Spain,Order Cancellation,Resolved,412,3,Neutral,36,0,0
+INT-0617,2026-08-31,Agent 016,Chat,Portugal,Order Status,Partially Resolved,283,3,Neutral,36,0,0
+INT-0509,2026-08-31,Agent 008,Chat,Spain,Late Delivery,Not Resolved,665,1,Dissatisfied,36,0,1
+INT-0804,2026-08-31,Agent 014,Chat,Spain,Payment Issue,Resolved,556,3,Neutral,36,0,0
+INT-0698,2026-08-31,Agent 008,Call,Spain,Payment Issue,Not Resolved,821,2,Dissatisfied,36,0,1
+INT-0327,2026-08-31,Agent 019,Call,Portugal,Order Status,Resolved,335,5,Satisfied,36,1,0
+INT-0320,2026-08-31,Agent 016,Call,Spain,Refund Request,Resolved,673,3,Neutral,36,0,0
+INT-0643,2026-08-31,Agent 012,Chat,Portugal,Missing Items,Resolved,335,3,Neutral,36,0,0
+INT-0233,2026-08-31,Agent 015,Chat,Portugal,Promotion Issue,Not Resolved,486,3,Neutral,36,0,0
